@@ -1,0 +1,394 @@
+[
+  {
+    "city": "Yangon",
+    "data": {
+      "latitude": 16.75,
+      "longitude": 96.125,
+      "generationtime_ms": 0.02396106719970703,
+      "utc_offset_seconds": 0,
+      "timezone": "GMT",
+      "timezone_abbreviation": "GMT",
+      "elevation": 4,
+      "daily_units": {
+        "time": "iso8601",
+        "weather_code": "wmo code",
+        "temperature_2m_max": "°C",
+        "temperature_2m_min": "°C"
+      },
+      "daily": {
+        "time": [
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun",
+          "Mon",
+          "Tue",
+          "Wed"
+        ],
+        "weather_code": [
+          2,
+          2,
+          2,
+          1,
+          0,
+          2,
+          3
+        ],
+        "temperature_2m_max": [
+          30.7,
+          30.1,
+          30.1,
+          30.4,
+          29.9,
+          29.8,
+          30.3
+        ],
+        "temperature_2m_min": [
+          20.3,
+          19.7,
+          19,
+          19.1,
+          16.6,
+          17.1,
+          17.5
+        ]
+      }
+    }
+  },
+  {
+    "city": "Mandalay",
+    "data": {
+      "latitude": 22,
+      "longitude": 96.125,
+      "generationtime_ms": 0.17201900482177734,
+      "utc_offset_seconds": 0,
+      "timezone": "GMT",
+      "timezone_abbreviation": "GMT",
+      "elevation": 79,
+      "daily_units": {
+        "time": "iso8601",
+        "weather_code": "wmo code",
+        "temperature_2m_max": "°C",
+        "temperature_2m_min": "°C"
+      },
+      "daily": {
+        "time": [
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun",
+          "Mon",
+          "Tue",
+          "Wed"
+        ],
+        "weather_code": [
+          2,
+          2,
+          2,
+          3,
+          3,
+          2,
+          2
+        ],
+        "temperature_2m_max": [
+          29.2,
+          28.8,
+          27.9,
+          27.9,
+          28,
+          28.6,
+          29.8
+        ],
+        "temperature_2m_min": [
+          17.3,
+          17.4,
+          18,
+          17.5,
+          15.4,
+          15.6,
+          18.4
+        ]
+      }
+    }
+  },
+  {
+    "city": "Naypyitaw",
+    "data": {
+      "latitude": 19.75,
+      "longitude": 96.125,
+      "generationtime_ms": 0.030994415283203125,
+      "utc_offset_seconds": 0,
+      "timezone": "GMT",
+      "timezone_abbreviation": "GMT",
+      "elevation": 116,
+      "daily_units": {
+        "time": "iso8601",
+        "weather_code": "wmo code",
+        "temperature_2m_max": "°C",
+        "temperature_2m_min": "°C"
+      },
+      "daily": {
+        "time": [
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun",
+          "Mon",
+          "Tue",
+          "Wed"
+        ],
+        "weather_code": [
+          2,
+          45,
+          45,
+          3,
+          2,
+          2,
+          2
+        ],
+        "temperature_2m_max": [
+          29.9,
+          30.1,
+          29.3,
+          29.7,
+          29.9,
+          29.5,
+          30.4
+        ],
+        "temperature_2m_min": [
+          15.3,
+          15,
+          17.1,
+          16.9,
+          16.7,
+          15.2,
+          14.5
+        ]
+      }
+    }
+  },
+  {
+    "city": "Sagaing",
+    "data": {
+      "latitude": 21.875,
+      "longitude": 96,
+      "generationtime_ms": 0.030994415283203125,
+      "utc_offset_seconds": 0,
+      "timezone": "GMT",
+      "timezone_abbreviation": "GMT",
+      "elevation": 62,
+      "daily_units": {
+        "time": "iso8601",
+        "weather_code": "wmo code",
+        "temperature_2m_max": "°C",
+        "temperature_2m_min": "°C"
+      },
+      "daily": {
+        "time": [
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun",
+          "Mon",
+          "Tue",
+          "Wed"
+        ],
+        "weather_code": [
+          45,
+          2,
+          2,
+          3,
+          3,
+          2,
+          2
+        ],
+        "temperature_2m_max": [
+          29.7,
+          29.4,
+          28.7,
+          28.5,
+          28.2,
+          28.5,
+          29.9
+        ],
+        "temperature_2m_min": [
+          18.9,
+          18.5,
+          18.7,
+          18.3,
+          17.7,
+          17.9,
+          19
+        ]
+      }
+    }
+  },
+  {
+    "city": "Meiktila",
+    "data": {
+      "latitude": 20.875,
+      "longitude": 95.875,
+      "generationtime_ms": 0.030040740966796875,
+      "utc_offset_seconds": 0,
+      "timezone": "GMT",
+      "timezone_abbreviation": "GMT",
+      "elevation": 230,
+      "daily_units": {
+        "time": "iso8601",
+        "weather_code": "wmo code",
+        "temperature_2m_max": "°C",
+        "temperature_2m_min": "°C"
+      },
+      "daily": {
+        "time": [
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun",
+          "Mon",
+          "Tue",
+          "Wed"
+        ],
+        "weather_code": [
+          1,
+          2,
+          2,
+          3,
+          2,
+          3,
+          2
+        ],
+        "temperature_2m_max": [
+          29.2,
+          28.6,
+          28.1,
+          27.6,
+          28.7,
+          28.9,
+          30.1
+        ],
+        "temperature_2m_min": [
+          15.8,
+          15.6,
+          17.3,
+          17.4,
+          16.7,
+          16.9,
+          16.5
+        ]
+      }
+    }
+  },
+  {
+    "city": "Pakokku",
+    "data": {
+      "latitude": 21.375,
+      "longitude": 95.125,
+      "generationtime_ms": 0.026941299438476562,
+      "utc_offset_seconds": 0,
+      "timezone": "GMT",
+      "timezone_abbreviation": "GMT",
+      "elevation": 78,
+      "daily_units": {
+        "time": "iso8601",
+        "weather_code": "wmo code",
+        "temperature_2m_max": "°C",
+        "temperature_2m_min": "°C"
+      },
+      "daily": {
+        "time": [
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun",
+          "Mon",
+          "Tue",
+          "Wed"
+        ],
+        "weather_code": [
+          3,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "temperature_2m_max": [
+          29.1,
+          28.8,
+          28.7,
+          28.2,
+          28.4,
+          29.3,
+          30.4
+        ],
+        "temperature_2m_min": [
+          18.8,
+          17.6,
+          17.7,
+          17.4,
+          19.2,
+          17.6,
+          17.2
+        ]
+      }
+    }
+  },
+  {
+    "city": "Sittwe",
+    "data": {
+      "latitude": 20.125,
+      "longitude": 92.875,
+      "generationtime_ms": 0.029087066650390625,
+      "utc_offset_seconds": 0,
+      "timezone": "GMT",
+      "timezone_abbreviation": "GMT",
+      "elevation": 5,
+      "daily_units": {
+        "time": "iso8601",
+        "weather_code": "wmo code",
+        "temperature_2m_max": "°C",
+        "temperature_2m_min": "°C"
+      },
+      "daily": {
+        "time": [
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun",
+          "Mon",
+          "Tue",
+          "Wed"
+        ],
+        "weather_code": [
+          45,
+          45,
+          45,
+          2,
+          2,
+          2,
+          2
+        ],
+        "temperature_2m_max": [
+          26.2,
+          26.9,
+          28,
+          29.5,
+          29.5,
+          28,
+          27.2
+        ],
+        "temperature_2m_min": [
+          18.5,
+          17.8,
+          20,
+          20.4,
+          20.6,
+          19.9,
+          18
+        ]
+      }
+    }
+  }
+]
