@@ -44,6 +44,11 @@ const cities = [
     latitude: 14.083,
     longitude: 98.192,
   },
+  {
+    name: "Chiang Mai",
+    latitude: 18.7883,
+    longitude: 98.9853,
+  },
 ];
 
 module.exports = {
