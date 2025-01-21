@@ -2,13 +2,13 @@
   {
     "city": "Yangon",
     "data": {
-      "latitude": 16.75,
-      "longitude": 96.125,
-      "generationtime_ms": 0.06103515625,
+      "latitude": 16.875,
+      "longitude": 96.25,
+      "generationtime_ms": 0.02574920654296875,
       "utc_offset_seconds": 0,
       "timezone": "GMT",
       "timezone_abbreviation": "GMT",
-      "elevation": 4,
+      "elevation": 7,
       "hourly_units": {
         "time": "iso8601",
         "temperature_2m": "°C"
@@ -21,48 +21,48 @@
       },
       "daily": {
         "time": [
+          "Tue",
           "Wed",
           "Thu",
           "Fri",
           "Sat",
           "Sun",
-          "Mon",
-          "Tue"
+          "Mon"
         ],
         "weather_code": [
-          2,
-          1,
-          2,
+          3,
+          3,
           1,
           0,
-          0,
-          1
+          45,
+          45,
+          45
         ],
         "temperature_2m_max": [
-          29.8,
-          30.4,
-          30.5,
-          29.1,
-          28,
-          28.3,
-          29.4
+          31.1,
+          31.7,
+          31.9,
+          32.7,
+          32.7,
+          32.2,
+          32.9
         ],
         "temperature_2m_min": [
-          18.5,
-          18.3,
-          18.5,
-          18,
-          17.2,
-          15.2,
-          15.9
+          19.7,
+          19.4,
+          19.5,
+          19.2,
+          18.7,
+          18.6,
+          19.3
         ]
       },
-      "current_temperature": 21.9,
+      "current_temperature": 23.2,
       "daily_temperatures": {
-        "7am": 29.5,
-        "9am": 29.8,
-        "12pm": 25.2,
-        "7pm": 20.1
+        "7am": 30.6,
+        "9am": 31.1,
+        "12pm": 27.1,
+        "7pm": 21
       }
     }
   },
@@ -71,11 +71,11 @@
     "data": {
       "latitude": 22,
       "longitude": 96.125,
-      "generationtime_ms": 0.03409385681152344,
+      "generationtime_ms": 0.03421306610107422,
       "utc_offset_seconds": 0,
       "timezone": "GMT",
       "timezone_abbreviation": "GMT",
-      "elevation": 79,
+      "elevation": 76,
       "hourly_units": {
         "time": "iso8601",
         "temperature_2m": "°C"
@@ -88,316 +88,316 @@
       },
       "daily": {
         "time": [
+          "Tue",
           "Wed",
           "Thu",
           "Fri",
           "Sat",
           "Sun",
-          "Mon",
-          "Tue"
+          "Mon"
         ],
         "weather_code": [
-          2,
-          3,
-          2,
-          3,
-          3,
-          3,
-          3
-        ],
-        "temperature_2m_max": [
-          28.5,
-          27.7,
-          28.2,
-          28.8,
-          28.8,
-          29.4,
-          28.7
-        ],
-        "temperature_2m_min": [
-          18.1,
-          16.7,
-          16.5,
-          17.6,
-          16.6,
-          16.7,
-          15.9
-        ]
-      },
-      "current_temperature": 19.3,
-      "daily_temperatures": {
-        "7am": 27.9,
-        "9am": 28.5,
-        "12pm": 24.2,
-        "7pm": 18.3
-      }
-    }
-  },
-  {
-    "city": "Naypyitaw",
-    "data": {
-      "latitude": 19.75,
-      "longitude": 96.125,
-      "generationtime_ms": 0.04696846008300781,
-      "utc_offset_seconds": 0,
-      "timezone": "GMT",
-      "timezone_abbreviation": "GMT",
-      "elevation": 116,
-      "hourly_units": {
-        "time": "iso8601",
-        "temperature_2m": "°C"
-      },
-      "daily_units": {
-        "time": "iso8601",
-        "weather_code": "wmo code",
-        "temperature_2m_max": "°C",
-        "temperature_2m_min": "°C"
-      },
-      "daily": {
-        "time": [
-          "Wed",
-          "Thu",
-          "Fri",
-          "Sat",
-          "Sun",
-          "Mon",
-          "Tue"
-        ],
-        "weather_code": [
-          45,
-          45,
-          45,
-          3,
-          3,
-          45,
-          45
-        ],
-        "temperature_2m_max": [
-          29,
-          29.3,
-          29.9,
-          30.2,
-          29,
-          29.6,
-          30.4
-        ],
-        "temperature_2m_min": [
-          16,
-          14,
-          13.7,
-          16,
-          14.4,
-          13,
-          13.3
-        ]
-      },
-      "current_temperature": 18.3,
-      "daily_temperatures": {
-        "7am": 28.8,
-        "9am": 28.5,
-        "12pm": 23.4,
-        "7pm": 17
-      }
-    }
-  },
-  {
-    "city": "Sagaing",
-    "data": {
-      "latitude": 21.875,
-      "longitude": 96,
-      "generationtime_ms": 0.03802776336669922,
-      "utc_offset_seconds": 0,
-      "timezone": "GMT",
-      "timezone_abbreviation": "GMT",
-      "elevation": 62,
-      "hourly_units": {
-        "time": "iso8601",
-        "temperature_2m": "°C"
-      },
-      "daily_units": {
-        "time": "iso8601",
-        "weather_code": "wmo code",
-        "temperature_2m_max": "°C",
-        "temperature_2m_min": "°C"
-      },
-      "daily": {
-        "time": [
-          "Wed",
-          "Thu",
-          "Fri",
-          "Sat",
-          "Sun",
-          "Mon",
-          "Tue"
-        ],
-        "weather_code": [
-          3,
-          3,
-          2,
-          3,
-          3,
-          3,
-          3
-        ],
-        "temperature_2m_max": [
-          29.1,
-          27.9,
-          28.6,
-          29.3,
-          29.1,
-          29.2,
-          29.5
-        ],
-        "temperature_2m_min": [
-          19.1,
-          17.6,
-          17.2,
-          18.1,
-          18.2,
-          18.4,
-          16.5
-        ]
-      },
-      "current_temperature": 20.9,
-      "daily_temperatures": {
-        "7am": 28,
-        "9am": 29,
-        "12pm": 24.7,
-        "7pm": 20.1
-      }
-    }
-  },
-  {
-    "city": "Meiktila",
-    "data": {
-      "latitude": 20.875,
-      "longitude": 95.875,
-      "generationtime_ms": 0.030994415283203125,
-      "utc_offset_seconds": 0,
-      "timezone": "GMT",
-      "timezone_abbreviation": "GMT",
-      "elevation": 230,
-      "hourly_units": {
-        "time": "iso8601",
-        "temperature_2m": "°C"
-      },
-      "daily_units": {
-        "time": "iso8601",
-        "weather_code": "wmo code",
-        "temperature_2m_max": "°C",
-        "temperature_2m_min": "°C"
-      },
-      "daily": {
-        "time": [
-          "Wed",
-          "Thu",
-          "Fri",
-          "Sat",
-          "Sun",
-          "Mon",
-          "Tue"
-        ],
-        "weather_code": [
-          2,
-          2,
-          2,
-          3,
-          3,
-          3,
-          1
-        ],
-        "temperature_2m_max": [
-          28.2,
-          28.3,
-          27.9,
-          28.6,
-          28.7,
-          29.2,
-          29.9
-        ],
-        "temperature_2m_min": [
-          17.2,
-          15.9,
-          15.7,
-          15.8,
-          16.1,
-          16.6,
-          15.6
-        ]
-      },
-      "current_temperature": 20,
-      "daily_temperatures": {
-        "7am": 27.8,
-        "9am": 28,
-        "12pm": 23.3,
-        "7pm": 19.1
-      }
-    }
-  },
-  {
-    "city": "Pakokku",
-    "data": {
-      "latitude": 21.375,
-      "longitude": 95.125,
-      "generationtime_ms": 0.030040740966796875,
-      "utc_offset_seconds": 0,
-      "timezone": "GMT",
-      "timezone_abbreviation": "GMT",
-      "elevation": 78,
-      "hourly_units": {
-        "time": "iso8601",
-        "temperature_2m": "°C"
-      },
-      "daily_units": {
-        "time": "iso8601",
-        "weather_code": "wmo code",
-        "temperature_2m_max": "°C",
-        "temperature_2m_min": "°C"
-      },
-      "daily": {
-        "time": [
-          "Wed",
-          "Thu",
-          "Fri",
-          "Sat",
-          "Sun",
-          "Mon",
-          "Tue"
-        ],
-        "weather_code": [
-          2,
-          2,
+          1,
+          1,
+          1,
           1,
           2,
-          3,
-          2,
+          1,
           2
         ],
         "temperature_2m_max": [
-          29.2,
-          28,
-          28,
-          28.2,
-          28.7,
-          29.6,
-          29.3
+          29.8,
+          30.4,
+          30.8,
+          31.5,
+          31,
+          31.3,
+          30.7
         ],
         "temperature_2m_min": [
-          16.5,
-          16.6,
+          16.3,
+          18.2,
+          17.8,
+          17.6,
           16.4,
-          16.1,
-          17.4,
-          17.4,
-          17.5
+          17.2,
+          18.3
         ]
       },
-      "current_temperature": 21.6,
+      "current_temperature": 21.7,
       "daily_temperatures": {
-        "7am": 28.7,
-        "9am": 29.2,
-        "12pm": 24.3,
-        "7pm": 19.6
+        "7am": 29.4,
+        "9am": 29.8,
+        "12pm": 25,
+        "7pm": 20
+      }
+    }
+  },
+  {
+    "city": "Myitkyina",
+    "data": {
+      "latitude": 25.375,
+      "longitude": 97.375,
+      "generationtime_ms": 0.049591064453125,
+      "utc_offset_seconds": 0,
+      "timezone": "GMT",
+      "timezone_abbreviation": "GMT",
+      "elevation": 143,
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "°C"
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "weather_code": "wmo code",
+        "temperature_2m_max": "°C",
+        "temperature_2m_min": "°C"
+      },
+      "daily": {
+        "time": [
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun",
+          "Mon"
+        ],
+        "weather_code": [
+          2,
+          45,
+          45,
+          3,
+          45,
+          45,
+          3
+        ],
+        "temperature_2m_max": [
+          26.7,
+          27.5,
+          27.9,
+          28,
+          27.2,
+          27.2,
+          27.4
+        ],
+        "temperature_2m_min": [
+          17.1,
+          16.1,
+          15.9,
+          15.6,
+          13.3,
+          13.3,
+          15.2
+        ]
+      },
+      "current_temperature": 19.7,
+      "daily_temperatures": {
+        "7am": 26.5,
+        "9am": 26.5,
+        "12pm": 23.3,
+        "7pm": 18.6
+      }
+    }
+  },
+  {
+    "city": "Hakha",
+    "data": {
+      "latitude": 22.625,
+      "longitude": 93.625,
+      "generationtime_ms": 0.039458274841308594,
+      "utc_offset_seconds": 0,
+      "timezone": "GMT",
+      "timezone_abbreviation": "GMT",
+      "elevation": 1713,
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "°C"
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "weather_code": "wmo code",
+        "temperature_2m_max": "°C",
+        "temperature_2m_min": "°C"
+      },
+      "daily": {
+        "time": [
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun",
+          "Mon"
+        ],
+        "weather_code": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "temperature_2m_max": [
+          22.7,
+          22.6,
+          22.6,
+          20.7,
+          17.9,
+          20.4,
+          21.8
+        ],
+        "temperature_2m_min": [
+          11.8,
+          11.3,
+          10.9,
+          9.3,
+          6.1,
+          4.6,
+          5.4
+        ]
+      },
+      "current_temperature": 13.1,
+      "daily_temperatures": {
+        "7am": 22.7,
+        "9am": 21.5,
+        "12pm": 15.3,
+        "7pm": 12.4
+      }
+    }
+  },
+  {
+    "city": "Monywa",
+    "data": {
+      "latitude": 22.125,
+      "longitude": 95.125,
+      "generationtime_ms": 0.17380714416503906,
+      "utc_offset_seconds": 0,
+      "timezone": "GMT",
+      "timezone_abbreviation": "GMT",
+      "elevation": 80,
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "°C"
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "weather_code": "wmo code",
+        "temperature_2m_max": "°C",
+        "temperature_2m_min": "°C"
+      },
+      "daily": {
+        "time": [
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun",
+          "Mon"
+        ],
+        "weather_code": [
+          45,
+          45,
+          45,
+          45,
+          2,
+          1,
+          1
+        ],
+        "temperature_2m_max": [
+          30.1,
+          31,
+          31.5,
+          31.7,
+          32,
+          31.2,
+          30.7
+        ],
+        "temperature_2m_min": [
+          16,
+          16,
+          15.7,
+          16.1,
+          16.1,
+          16.8,
+          16.4
+        ]
+      },
+      "current_temperature": 21,
+      "daily_temperatures": {
+        "7am": 29.9,
+        "9am": 30.1,
+        "12pm": 26,
+        "7pm": 17.7
+      }
+    }
+  },
+  {
+    "city": "Taunggyi",
+    "data": {
+      "latitude": 20.75,
+      "longitude": 97,
+      "generationtime_ms": 0.02849102020263672,
+      "utc_offset_seconds": 0,
+      "timezone": "GMT",
+      "timezone_abbreviation": "GMT",
+      "elevation": 1402,
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "°C"
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "weather_code": "wmo code",
+        "temperature_2m_max": "°C",
+        "temperature_2m_min": "°C"
+      },
+      "daily": {
+        "time": [
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun",
+          "Mon"
+        ],
+        "weather_code": [
+          45,
+          45,
+          1,
+          0,
+          1,
+          1,
+          0
+        ],
+        "temperature_2m_max": [
+          24.7,
+          25.2,
+          25.7,
+          25.3,
+          24.2,
+          24,
+          24.4
+        ],
+        "temperature_2m_min": [
+          9,
+          8.7,
+          9.2,
+          9.4,
+          8.7,
+          8.8,
+          8.8
+        ]
+      },
+      "current_temperature": 13,
+      "daily_temperatures": {
+        "7am": 24.5,
+        "9am": 24.3,
+        "12pm": 17.4,
+        "7pm": 10.2
       }
     }
   },
@@ -406,11 +406,11 @@
     "data": {
       "latitude": 20.125,
       "longitude": 92.875,
-      "generationtime_ms": 0.028967857360839844,
+      "generationtime_ms": 0.03349781036376953,
       "utc_offset_seconds": 0,
       "timezone": "GMT",
       "timezone_abbreviation": "GMT",
-      "elevation": 5,
+      "elevation": 15,
       "hourly_units": {
         "time": "iso8601",
         "temperature_2m": "°C"
@@ -423,61 +423,61 @@
       },
       "daily": {
         "time": [
+          "Tue",
           "Wed",
           "Thu",
           "Fri",
           "Sat",
           "Sun",
-          "Mon",
-          "Tue"
+          "Mon"
         ],
         "weather_code": [
-          1,
-          1,
-          1,
           2,
-          3,
-          1,
-          1
+          45,
+          45,
+          45,
+          0,
+          0,
+          0
         ],
         "temperature_2m_max": [
-          26.9,
           26.6,
-          29.2,
-          30.1,
-          29.1,
-          29.3,
-          28.5
+          26.9,
+          27.7,
+          28.3,
+          30.4,
+          29.6,
+          27.7
         ],
         "temperature_2m_min": [
-          17.5,
-          17,
-          18.1,
-          19,
-          19.1,
-          19.2,
-          18.6
+          17.3,
+          17.6,
+          17.9,
+          17.7,
+          18.2,
+          18.6,
+          15.6
         ]
       },
-      "current_temperature": 21.4,
+      "current_temperature": 20.8,
       "daily_temperatures": {
-        "7am": 26.9,
-        "9am": 26.3,
-        "12pm": 23.9,
+        "7am": 26.6,
+        "9am": 25.7,
+        "12pm": 22.6,
         "7pm": 19.5
       }
     }
   },
   {
-    "city": "Mawlamyine",
+    "city": "Magway",
     "data": {
-      "latitude": 16.5,
-      "longitude": 97.625,
-      "generationtime_ms": 0.028014183044433594,
+      "latitude": 20.125,
+      "longitude": 95,
+      "generationtime_ms": 0.03635883331298828,
       "utc_offset_seconds": 0,
       "timezone": "GMT",
       "timezone_abbreviation": "GMT",
-      "elevation": 24,
+      "elevation": 84,
       "hourly_units": {
         "time": "iso8601",
         "temperature_2m": "°C"
@@ -490,57 +490,258 @@
       },
       "daily": {
         "time": [
+          "Tue",
           "Wed",
           "Thu",
           "Fri",
           "Sat",
           "Sun",
-          "Mon",
-          "Tue"
+          "Mon"
         ],
         "weather_code": [
-          2,
-          2,
-          2,
+          45,
           1,
           0,
-          0,
-          1
+          1,
+          2,
+          1,
+          0
         ],
         "temperature_2m_max": [
-          30.1,
-          30.4,
           31.1,
-          29.5,
-          28.3,
-          29.1,
-          30.1
+          30.8,
+          31.6,
+          32.5,
+          31.7,
+          31.9,
+          32.3
         ],
         "temperature_2m_min": [
-          20,
-          19.8,
-          21.4,
-          20.1,
-          18.6,
-          18.9,
-          19.5
+          16.8,
+          16.4,
+          16.4,
+          16.2,
+          16.2,
+          19.7,
+          16.8
         ]
       },
-      "current_temperature": 21.7,
+      "current_temperature": 22.8,
       "daily_temperatures": {
         "7am": 29.8,
-        "9am": 29.8,
-        "12pm": 25.2,
-        "7pm": 21
+        "9am": 31.1,
+        "12pm": 26.7,
+        "7pm": 19.3
       }
     }
   },
   {
-    "city": "Dawei",
+    "city": "Naypyidaw",
     "data": {
-      "latitude": 14.125,
-      "longitude": 98.25,
-      "generationtime_ms": 0.03409385681152344,
+      "latitude": 19.75,
+      "longitude": 96.125,
+      "generationtime_ms": 0.03516674041748047,
+      "utc_offset_seconds": 0,
+      "timezone": "GMT",
+      "timezone_abbreviation": "GMT",
+      "elevation": 152,
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "°C"
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "weather_code": "wmo code",
+        "temperature_2m_max": "°C",
+        "temperature_2m_min": "°C"
+      },
+      "daily": {
+        "time": [
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun",
+          "Mon"
+        ],
+        "weather_code": [
+          45,
+          45,
+          45,
+          45,
+          45,
+          1,
+          2
+        ],
+        "temperature_2m_max": [
+          29.6,
+          30.3,
+          31.1,
+          31.6,
+          32,
+          32.4,
+          31.7
+        ],
+        "temperature_2m_min": [
+          14.6,
+          14.8,
+          13.7,
+          13,
+          13.6,
+          14.9,
+          15.4
+        ]
+      },
+      "current_temperature": 20.1,
+      "daily_temperatures": {
+        "7am": 29.3,
+        "9am": 29.5,
+        "12pm": 24.4,
+        "7pm": 17.7
+      }
+    }
+  },
+  {
+    "city": "Loikaw",
+    "data": {
+      "latitude": 19.625,
+      "longitude": 97.25,
+      "generationtime_ms": 0.034332275390625,
+      "utc_offset_seconds": 0,
+      "timezone": "GMT",
+      "timezone_abbreviation": "GMT",
+      "elevation": 894,
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "°C"
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "weather_code": "wmo code",
+        "temperature_2m_max": "°C",
+        "temperature_2m_min": "°C"
+      },
+      "daily": {
+        "time": [
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun",
+          "Mon"
+        ],
+        "weather_code": [
+          1,
+          1,
+          1,
+          0,
+          1,
+          1,
+          0
+        ],
+        "temperature_2m_max": [
+          26.8,
+          27,
+          27.9,
+          29.5,
+          29.5,
+          28.1,
+          29.1
+        ],
+        "temperature_2m_min": [
+          10.7,
+          10.3,
+          10.4,
+          9.2,
+          9.8,
+          9.4,
+          8.6
+        ]
+      },
+      "current_temperature": 16.2,
+      "daily_temperatures": {
+        "7am": 26.5,
+        "9am": 26.6,
+        "12pm": 20.6,
+        "7pm": 13.6
+      }
+    }
+  },
+  {
+    "city": "Bago",
+    "data": {
+      "latitude": 17.375,
+      "longitude": 96.5,
+      "generationtime_ms": 0.032901763916015625,
+      "utc_offset_seconds": 0,
+      "timezone": "GMT",
+      "timezone_abbreviation": "GMT",
+      "elevation": 13,
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "°C"
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "weather_code": "wmo code",
+        "temperature_2m_max": "°C",
+        "temperature_2m_min": "°C"
+      },
+      "daily": {
+        "time": [
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun",
+          "Mon"
+        ],
+        "weather_code": [
+          3,
+          3,
+          2,
+          45,
+          45,
+          45,
+          45
+        ],
+        "temperature_2m_max": [
+          30.2,
+          30.9,
+          31.5,
+          32.3,
+          32.2,
+          32,
+          32.1
+        ],
+        "temperature_2m_min": [
+          18.7,
+          17.8,
+          18.5,
+          17.1,
+          17,
+          18.1,
+          18.4
+        ]
+      },
+      "current_temperature": 21.8,
+      "daily_temperatures": {
+        "7am": 30,
+        "9am": 30,
+        "12pm": 25.6,
+        "7pm": 20
+      }
+    }
+  },
+  {
+    "city": "Pathein",
+    "data": {
+      "latitude": 16.75,
+      "longitude": 94.75,
+      "generationtime_ms": 0.026226043701171875,
       "utc_offset_seconds": 0,
       "timezone": "GMT",
       "timezone_abbreviation": "GMT",
@@ -557,61 +758,61 @@
       },
       "daily": {
         "time": [
+          "Tue",
           "Wed",
           "Thu",
           "Fri",
           "Sat",
           "Sun",
-          "Mon",
-          "Tue"
+          "Mon"
         ],
         "weather_code": [
-          3,
-          3,
+          45,
+          45,
           1,
-          2,
+          45,
           1,
-          0,
-          0
+          1,
+          1
         ],
         "temperature_2m_max": [
-          33.7,
-          33.7,
-          32.3,
-          29.7,
-          28.5,
-          30.6,
-          33.2
+          31.3,
+          31.5,
+          32.5,
+          32.2,
+          32.2,
+          32.8,
+          31.5
         ],
         "temperature_2m_min": [
-          20,
-          21.2,
-          23,
-          20.4,
-          20.3,
-          20,
-          20.2
+          18.6,
+          18.7,
+          19.6,
+          19,
+          19.2,
+          19.4,
+          18.4
         ]
       },
-      "current_temperature": 24.4,
+      "current_temperature": 22.1,
       "daily_temperatures": {
-        "7am": 33.7,
-        "9am": 30.8,
-        "12pm": 26.4,
-        "7pm": 23.1
+        "7am": 30.9,
+        "9am": 31.3,
+        "12pm": 25.5,
+        "7pm": 20.2
       }
     }
   },
   {
-    "city": "Chiang Mai",
+    "city": "Hpa-an",
     "data": {
-      "latitude": 18.625,
-      "longitude": 99.125,
-      "generationtime_ms": 0.033020973205566406,
+      "latitude": 16.875,
+      "longitude": 97.625,
+      "generationtime_ms": 0.03421306610107422,
       "utc_offset_seconds": 0,
       "timezone": "GMT",
       "timezone_abbreviation": "GMT",
-      "elevation": 313,
+      "elevation": 6,
       "hourly_units": {
         "time": "iso8601",
         "temperature_2m": "°C"
@@ -624,48 +825,182 @@
       },
       "daily": {
         "time": [
+          "Tue",
           "Wed",
           "Thu",
           "Fri",
           "Sat",
           "Sun",
-          "Mon",
-          "Tue"
+          "Mon"
         ],
         "weather_code": [
-          2,
-          2,
+          45,
           3,
-          2,
+          3,
           1,
-          1,
-          0
+          45,
+          45,
+          45
         ],
         "temperature_2m_max": [
-          28.4,
-          28.6,
-          29.3,
-          27.8,
-          26,
-          26.2,
-          28.1
+          31.7,
+          31.9,
+          32.7,
+          33.6,
+          33.3,
+          34.1,
+          34.1
         ],
         "temperature_2m_min": [
-          14.8,
-          16.9,
-          15.8,
-          13.4,
-          10.4,
-          10.7,
-          11.4
+          17.5,
+          17.1,
+          18.7,
+          17.7,
+          16.6,
+          15.9,
+          16.2
         ]
       },
-      "current_temperature": 19.1,
+      "current_temperature": 22.6,
       "daily_temperatures": {
-        "7am": 28.3,
-        "9am": 28.2,
-        "12pm": 22.8,
-        "7pm": 18
+        "7am": 31.3,
+        "9am": 31.5,
+        "12pm": 26.7,
+        "7pm": 19.2
+      }
+    }
+  },
+  {
+    "city": "Mawlamyine",
+    "data": {
+      "latitude": 16.5,
+      "longitude": 97.625,
+      "generationtime_ms": 0.02777576446533203,
+      "utc_offset_seconds": 0,
+      "timezone": "GMT",
+      "timezone_abbreviation": "GMT",
+      "elevation": 23,
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "°C"
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "weather_code": "wmo code",
+        "temperature_2m_max": "°C",
+        "temperature_2m_min": "°C"
+      },
+      "daily": {
+        "time": [
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun",
+          "Mon"
+        ],
+        "weather_code": [
+          3,
+          3,
+          3,
+          45,
+          45,
+          45,
+          45
+        ],
+        "temperature_2m_max": [
+          30.5,
+          30.9,
+          30.9,
+          30.8,
+          30.6,
+          30.8,
+          31.3
+        ],
+        "temperature_2m_min": [
+          19.5,
+          19.6,
+          19.2,
+          19.5,
+          19,
+          18.1,
+          18
+        ]
+      },
+      "current_temperature": 22.2,
+      "daily_temperatures": {
+        "7am": 30.2,
+        "9am": 30,
+        "12pm": 25.4,
+        "7pm": 19.6
+      }
+    }
+  },
+  {
+    "city": "Dawei",
+    "data": {
+      "latitude": 14.125,
+      "longitude": 98.25,
+      "generationtime_ms": 0.037789344787597656,
+      "utc_offset_seconds": 0,
+      "timezone": "GMT",
+      "timezone_abbreviation": "GMT",
+      "elevation": 9,
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "°C"
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "weather_code": "wmo code",
+        "temperature_2m_max": "°C",
+        "temperature_2m_min": "°C"
+      },
+      "daily": {
+        "time": [
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun",
+          "Mon"
+        ],
+        "weather_code": [
+          3,
+          45,
+          45,
+          45,
+          45,
+          0,
+          1
+        ],
+        "temperature_2m_max": [
+          33.7,
+          33.5,
+          33.9,
+          34.3,
+          33.6,
+          34,
+          35.4
+        ],
+        "temperature_2m_min": [
+          15.9,
+          15.9,
+          16.9,
+          16.4,
+          15.5,
+          16.2,
+          17.2
+        ]
+      },
+      "current_temperature": 20.5,
+      "daily_temperatures": {
+        "7am": 33.7,
+        "9am": 30.9,
+        "12pm": 25.1,
+        "7pm": 16.8
       }
     }
   }
