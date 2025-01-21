@@ -11,9 +11,20 @@ async function getWeatherData(latitude, longitude) {
   const currentHour = now.getHours();
 
   // Format daily dates
+  // if (data.daily && data.daily.time) {
+  //   data.daily.time = data.daily.time.map((date) =>
+  //     new Date(date).toLocaleDateString("en-US", { weekday: "short" })
+  //   );
+  // }
+
+  // Format daily dates to DD/MM/YYYY
   if (data.daily && data.daily.time) {
     data.daily.time = data.daily.time.map((date) =>
-      new Date(date).toLocaleDateString("en-US", { weekday: "short" })
+      new Date(date).toLocaleDateString("en-GB", {
+        day: "2-digit",
+        month: "2-digit",
+        year: "numeric",
+      })
     );
   }
 

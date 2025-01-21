@@ -4,7 +4,7 @@
     "data": {
       "latitude": 16.875,
       "longitude": 96.25,
-      "generationtime_ms": 0.02574920654296875,
+      "generationtime_ms": 0.029802322387695312,
       "utc_offset_seconds": 0,
       "timezone": "GMT",
       "timezone_abbreviation": "GMT",
@@ -21,48 +21,48 @@
       },
       "daily": {
         "time": [
-          "Tue",
-          "Wed",
-          "Thu",
-          "Fri",
-          "Sat",
-          "Sun",
-          "Mon"
+          "21/01/2025",
+          "22/01/2025",
+          "23/01/2025",
+          "24/01/2025",
+          "25/01/2025",
+          "26/01/2025",
+          "27/01/2025"
         ],
         "weather_code": [
           3,
           3,
+          3,
           1,
-          0,
           45,
           45,
           45
         ],
         "temperature_2m_max": [
-          31.1,
-          31.7,
-          31.9,
-          32.7,
-          32.7,
+          30.7,
+          31.3,
+          31.6,
+          32.4,
+          32.5,
           32.2,
           32.9
         ],
         "temperature_2m_min": [
-          19.7,
+          19.5,
           19.4,
           19.5,
-          19.2,
+          19.1,
           18.7,
-          18.6,
+          18.7,
           19.3
         ]
       },
-      "current_temperature": 23.2,
+      "current_temperature": 21.9,
       "daily_temperatures": {
-        "7am": 30.6,
-        "9am": 31.1,
-        "12pm": 27.1,
-        "7pm": 21
+        "7am": 30.4,
+        "9am": 30.7,
+        "12pm": 26.7,
+        "7pm": 20.8
       }
     }
   },
@@ -71,7 +71,7 @@
     "data": {
       "latitude": 22,
       "longitude": 96.125,
-      "generationtime_ms": 0.03421306610107422,
+      "generationtime_ms": 0.03349781036376953,
       "utc_offset_seconds": 0,
       "timezone": "GMT",
       "timezone_abbreviation": "GMT",
@@ -88,48 +88,48 @@
       },
       "daily": {
         "time": [
-          "Tue",
-          "Wed",
-          "Thu",
-          "Fri",
-          "Sat",
-          "Sun",
-          "Mon"
+          "21/01/2025",
+          "22/01/2025",
+          "23/01/2025",
+          "24/01/2025",
+          "25/01/2025",
+          "26/01/2025",
+          "27/01/2025"
         ],
         "weather_code": [
           1,
-          1,
-          1,
-          1,
           2,
           1,
+          2,
+          2,
+          2,
           2
         ],
         "temperature_2m_max": [
-          29.8,
-          30.4,
+          29.5,
+          30.2,
+          30.7,
+          30.9,
           30.8,
-          31.5,
-          31,
           31.3,
           30.7
         ],
         "temperature_2m_min": [
           16.3,
-          18.2,
-          17.8,
-          17.6,
-          16.4,
-          17.2,
+          18.1,
+          17.7,
+          17.7,
+          16.1,
+          16.5,
           18.3
         ]
       },
-      "current_temperature": 21.7,
+      "current_temperature": 19.7,
       "daily_temperatures": {
-        "7am": 29.4,
-        "9am": 29.8,
-        "12pm": 25,
-        "7pm": 20
+        "7am": 29.2,
+        "9am": 29.4,
+        "12pm": 24.3,
+        "7pm": 19.4
       }
     }
   },
@@ -138,7 +138,7 @@
     "data": {
       "latitude": 25.375,
       "longitude": 97.375,
-      "generationtime_ms": 0.049591064453125,
+      "generationtime_ms": 0.3865957260131836,
       "utc_offset_seconds": 0,
       "timezone": "GMT",
       "timezone_abbreviation": "GMT",
@@ -155,48 +155,48 @@
       },
       "daily": {
         "time": [
-          "Tue",
-          "Wed",
-          "Thu",
-          "Fri",
-          "Sat",
-          "Sun",
-          "Mon"
+          "21/01/2025",
+          "22/01/2025",
+          "23/01/2025",
+          "24/01/2025",
+          "25/01/2025",
+          "26/01/2025",
+          "27/01/2025"
         ],
         "weather_code": [
+          3,
+          45,
           2,
-          45,
-          45,
           3,
           45,
           45,
           3
         ],
         "temperature_2m_max": [
-          26.7,
+          26.4,
+          27.3,
           27.5,
           27.9,
-          28,
           27.2,
           27.2,
           27.4
         ],
         "temperature_2m_min": [
-          17.1,
+          17.5,
+          17,
           16.1,
-          15.9,
-          15.6,
-          13.3,
-          13.3,
+          15.8,
+          13,
+          13.1,
           15.2
         ]
       },
       "current_temperature": 19.7,
       "daily_temperatures": {
-        "7am": 26.5,
-        "9am": 26.5,
+        "7am": 26.2,
+        "9am": 26.4,
         "12pm": 23.3,
-        "7pm": 18.6
+        "7pm": 19.3
       }
     }
   },
@@ -205,7 +205,7 @@
     "data": {
       "latitude": 22.625,
       "longitude": 93.625,
-      "generationtime_ms": 0.039458274841308594,
+      "generationtime_ms": 0.06568431854248047,
       "utc_offset_seconds": 0,
       "timezone": "GMT",
       "timezone_abbreviation": "GMT",
@@ -222,13 +222,13 @@
       },
       "daily": {
         "time": [
-          "Tue",
-          "Wed",
-          "Thu",
-          "Fri",
-          "Sat",
-          "Sun",
-          "Mon"
+          "21/01/2025",
+          "22/01/2025",
+          "23/01/2025",
+          "24/01/2025",
+          "25/01/2025",
+          "26/01/2025",
+          "27/01/2025"
         ],
         "weather_code": [
           0,
@@ -240,30 +240,30 @@
           0
         ],
         "temperature_2m_max": [
-          22.7,
-          22.6,
-          22.6,
-          20.7,
-          17.9,
+          22.4,
+          22.5,
+          22.5,
+          20.4,
+          17.6,
           20.4,
           21.8
         ],
         "temperature_2m_min": [
-          11.8,
-          11.3,
-          10.9,
+          12.3,
+          11.6,
+          11,
           9.3,
-          6.1,
+          5.2,
           4.6,
           5.4
         ]
       },
-      "current_temperature": 13.1,
+      "current_temperature": 13.2,
       "daily_temperatures": {
-        "7am": 22.7,
-        "9am": 21.5,
-        "12pm": 15.3,
-        "7pm": 12.4
+        "7am": 22.4,
+        "9am": 21.4,
+        "12pm": 15.5,
+        "7pm": 12.8
       }
     }
   },
@@ -272,7 +272,7 @@
     "data": {
       "latitude": 22.125,
       "longitude": 95.125,
-      "generationtime_ms": 0.17380714416503906,
+      "generationtime_ms": 0.893712043762207,
       "utc_offset_seconds": 0,
       "timezone": "GMT",
       "timezone_abbreviation": "GMT",
@@ -289,13 +289,13 @@
       },
       "daily": {
         "time": [
-          "Tue",
-          "Wed",
-          "Thu",
-          "Fri",
-          "Sat",
-          "Sun",
-          "Mon"
+          "21/01/2025",
+          "22/01/2025",
+          "23/01/2025",
+          "24/01/2025",
+          "25/01/2025",
+          "26/01/2025",
+          "27/01/2025"
         ],
         "weather_code": [
           45,
@@ -307,30 +307,30 @@
           1
         ],
         "temperature_2m_max": [
-          30.1,
-          31,
+          30,
+          30.8,
+          31.1,
           31.5,
           31.7,
-          32,
           31.2,
           30.7
         ],
         "temperature_2m_min": [
           16,
+          16.3,
           16,
-          15.7,
-          16.1,
-          16.1,
-          16.8,
+          16.7,
+          16.3,
+          16.7,
           16.4
         ]
       },
-      "current_temperature": 21,
+      "current_temperature": 19.8,
       "daily_temperatures": {
-        "7am": 29.9,
-        "9am": 30.1,
-        "12pm": 26,
-        "7pm": 17.7
+        "7am": 29.7,
+        "9am": 29.9,
+        "12pm": 25.5,
+        "7pm": 18.6
       }
     }
   },
@@ -339,7 +339,7 @@
     "data": {
       "latitude": 20.75,
       "longitude": 97,
-      "generationtime_ms": 0.02849102020263672,
+      "generationtime_ms": 0.055909156799316406,
       "utc_offset_seconds": 0,
       "timezone": "GMT",
       "timezone_abbreviation": "GMT",
@@ -356,48 +356,48 @@
       },
       "daily": {
         "time": [
-          "Tue",
-          "Wed",
-          "Thu",
-          "Fri",
-          "Sat",
-          "Sun",
-          "Mon"
+          "21/01/2025",
+          "22/01/2025",
+          "23/01/2025",
+          "24/01/2025",
+          "25/01/2025",
+          "26/01/2025",
+          "27/01/2025"
         ],
         "weather_code": [
           45,
           45,
           1,
-          0,
           1,
-          1,
+          45,
+          45,
           0
         ],
         "temperature_2m_max": [
+          24.3,
           24.7,
-          25.2,
-          25.7,
-          25.3,
-          24.2,
+          25.4,
+          24.8,
+          23.8,
           24,
           24.4
         ],
         "temperature_2m_min": [
-          9,
-          8.7,
           9.2,
-          9.4,
-          8.7,
+          8.8,
+          8.6,
+          8.9,
+          8.4,
           8.8,
           8.8
         ]
       },
-      "current_temperature": 13,
+      "current_temperature": 10.5,
       "daily_temperatures": {
-        "7am": 24.5,
-        "9am": 24.3,
-        "12pm": 17.4,
-        "7pm": 10.2
+        "7am": 24.2,
+        "9am": 23.9,
+        "12pm": 16.2,
+        "7pm": 10
       }
     }
   },
@@ -406,7 +406,7 @@
     "data": {
       "latitude": 20.125,
       "longitude": 92.875,
-      "generationtime_ms": 0.03349781036376953,
+      "generationtime_ms": 0.035881996154785156,
       "utc_offset_seconds": 0,
       "timezone": "GMT",
       "timezone_abbreviation": "GMT",
@@ -423,17 +423,17 @@
       },
       "daily": {
         "time": [
-          "Tue",
-          "Wed",
-          "Thu",
-          "Fri",
-          "Sat",
-          "Sun",
-          "Mon"
+          "21/01/2025",
+          "22/01/2025",
+          "23/01/2025",
+          "24/01/2025",
+          "25/01/2025",
+          "26/01/2025",
+          "27/01/2025"
         ],
         "weather_code": [
-          2,
-          45,
+          1,
+          0,
           45,
           45,
           0,
@@ -442,29 +442,29 @@
         ],
         "temperature_2m_max": [
           26.6,
-          26.9,
-          27.7,
-          28.3,
-          30.4,
+          27.4,
+          28,
+          28.4,
+          30.3,
           29.6,
           27.7
         ],
         "temperature_2m_min": [
           17.3,
-          17.6,
-          17.9,
-          17.7,
-          18.2,
+          17.4,
+          18.1,
+          18.1,
+          18.1,
           18.6,
           15.6
         ]
       },
-      "current_temperature": 20.8,
+      "current_temperature": 20.3,
       "daily_temperatures": {
         "7am": 26.6,
-        "9am": 25.7,
-        "12pm": 22.6,
-        "7pm": 19.5
+        "9am": 25.6,
+        "12pm": 22.7,
+        "7pm": 19.3
       }
     }
   },
@@ -473,7 +473,7 @@
     "data": {
       "latitude": 20.125,
       "longitude": 95,
-      "generationtime_ms": 0.03635883331298828,
+      "generationtime_ms": 0.05507469177246094,
       "utc_offset_seconds": 0,
       "timezone": "GMT",
       "timezone_abbreviation": "GMT",
@@ -490,47 +490,47 @@
       },
       "daily": {
         "time": [
-          "Tue",
-          "Wed",
-          "Thu",
-          "Fri",
-          "Sat",
-          "Sun",
-          "Mon"
+          "21/01/2025",
+          "22/01/2025",
+          "23/01/2025",
+          "24/01/2025",
+          "25/01/2025",
+          "26/01/2025",
+          "27/01/2025"
         ],
         "weather_code": [
           45,
           1,
-          0,
           1,
-          2,
+          45,
+          45,
           1,
           0
         ],
         "temperature_2m_max": [
-          31.1,
-          30.8,
-          31.6,
-          32.5,
-          31.7,
+          30.3,
+          30.6,
+          31.4,
+          32.1,
+          31.5,
           31.9,
           32.3
         ],
         "temperature_2m_min": [
           16.8,
-          16.4,
-          16.4,
           16.2,
-          16.2,
+          16.4,
+          16.6,
+          16.6,
           19.7,
           16.8
         ]
       },
-      "current_temperature": 22.8,
+      "current_temperature": 21.2,
       "daily_temperatures": {
-        "7am": 29.8,
-        "9am": 31.1,
-        "12pm": 26.7,
+        "7am": 29.1,
+        "9am": 30.3,
+        "12pm": 26.2,
         "7pm": 19.3
       }
     }
@@ -540,7 +540,7 @@
     "data": {
       "latitude": 19.75,
       "longitude": 96.125,
-      "generationtime_ms": 0.03516674041748047,
+      "generationtime_ms": 0.37157535552978516,
       "utc_offset_seconds": 0,
       "timezone": "GMT",
       "timezone_abbreviation": "GMT",
@@ -557,13 +557,13 @@
       },
       "daily": {
         "time": [
-          "Tue",
-          "Wed",
-          "Thu",
-          "Fri",
-          "Sat",
-          "Sun",
-          "Mon"
+          "21/01/2025",
+          "22/01/2025",
+          "23/01/2025",
+          "24/01/2025",
+          "25/01/2025",
+          "26/01/2025",
+          "27/01/2025"
         ],
         "weather_code": [
           45,
@@ -575,30 +575,30 @@
           2
         ],
         "temperature_2m_max": [
-          29.6,
-          30.3,
+          29.4,
+          30.1,
+          30.8,
           31.1,
-          31.6,
-          32,
+          31.8,
           32.4,
           31.7
         ],
         "temperature_2m_min": [
           14.6,
-          14.8,
-          13.7,
-          13,
-          13.6,
+          14.6,
+          14.2,
+          13.4,
+          13.8,
           14.9,
           15.4
         ]
       },
-      "current_temperature": 20.1,
+      "current_temperature": 18,
       "daily_temperatures": {
-        "7am": 29.3,
-        "9am": 29.5,
-        "12pm": 24.4,
-        "7pm": 17.7
+        "7am": 29,
+        "9am": 29.2,
+        "12pm": 23.8,
+        "7pm": 16.7
       }
     }
   },
@@ -607,7 +607,7 @@
     "data": {
       "latitude": 19.625,
       "longitude": 97.25,
-      "generationtime_ms": 0.034332275390625,
+      "generationtime_ms": 0.06103515625,
       "utc_offset_seconds": 0,
       "timezone": "GMT",
       "timezone_abbreviation": "GMT",
@@ -624,16 +624,16 @@
       },
       "daily": {
         "time": [
-          "Tue",
-          "Wed",
-          "Thu",
-          "Fri",
-          "Sat",
-          "Sun",
-          "Mon"
+          "21/01/2025",
+          "22/01/2025",
+          "23/01/2025",
+          "24/01/2025",
+          "25/01/2025",
+          "26/01/2025",
+          "27/01/2025"
         ],
         "weather_code": [
-          1,
+          2,
           1,
           1,
           0,
@@ -642,30 +642,30 @@
           0
         ],
         "temperature_2m_max": [
-          26.8,
+          26.7,
           27,
           27.9,
-          29.5,
-          29.5,
+          29.3,
+          28.9,
           28.1,
           29.1
         ],
         "temperature_2m_min": [
-          10.7,
-          10.3,
-          10.4,
+          11.3,
+          10.8,
+          11.3,
           9.2,
-          9.8,
+          8.9,
           9.4,
           8.6
         ]
       },
-      "current_temperature": 16.2,
+      "current_temperature": 15.3,
       "daily_temperatures": {
-        "7am": 26.5,
-        "9am": 26.6,
+        "7am": 26.3,
+        "9am": 26.5,
         "12pm": 20.6,
-        "7pm": 13.6
+        "7pm": 14.4
       }
     }
   },
@@ -674,7 +674,7 @@
     "data": {
       "latitude": 17.375,
       "longitude": 96.5,
-      "generationtime_ms": 0.032901763916015625,
+      "generationtime_ms": 0.034809112548828125,
       "utc_offset_seconds": 0,
       "timezone": "GMT",
       "timezone_abbreviation": "GMT",
@@ -691,48 +691,48 @@
       },
       "daily": {
         "time": [
-          "Tue",
-          "Wed",
-          "Thu",
-          "Fri",
-          "Sat",
-          "Sun",
-          "Mon"
+          "21/01/2025",
+          "22/01/2025",
+          "23/01/2025",
+          "24/01/2025",
+          "25/01/2025",
+          "26/01/2025",
+          "27/01/2025"
         ],
         "weather_code": [
-          3,
-          3,
           2,
+          3,
+          45,
           45,
           45,
           45,
           45
         ],
         "temperature_2m_max": [
-          30.2,
-          30.9,
-          31.5,
-          32.3,
-          32.2,
+          30,
+          30.6,
+          31,
+          31.9,
+          31.8,
           32,
           32.1
         ],
         "temperature_2m_min": [
           18.7,
-          17.8,
-          18.5,
-          17.1,
+          18.1,
+          18.1,
           17,
+          16.9,
           18.1,
           18.4
         ]
       },
-      "current_temperature": 21.8,
+      "current_temperature": 20.7,
       "daily_temperatures": {
-        "7am": 30,
-        "9am": 30,
-        "12pm": 25.6,
-        "7pm": 20
+        "7am": 29.6,
+        "9am": 29.9,
+        "12pm": 25.3,
+        "7pm": 19.6
       }
     }
   },
@@ -741,7 +741,7 @@
     "data": {
       "latitude": 16.75,
       "longitude": 94.75,
-      "generationtime_ms": 0.026226043701171875,
+      "generationtime_ms": 0.035762786865234375,
       "utc_offset_seconds": 0,
       "timezone": "GMT",
       "timezone_abbreviation": "GMT",
@@ -758,47 +758,47 @@
       },
       "daily": {
         "time": [
-          "Tue",
-          "Wed",
-          "Thu",
-          "Fri",
-          "Sat",
-          "Sun",
-          "Mon"
+          "21/01/2025",
+          "22/01/2025",
+          "23/01/2025",
+          "24/01/2025",
+          "25/01/2025",
+          "26/01/2025",
+          "27/01/2025"
         ],
         "weather_code": [
           45,
           45,
-          1,
+          45,
           45,
           1,
           1,
           1
         ],
         "temperature_2m_max": [
+          31.1,
           31.3,
-          31.5,
-          32.5,
+          31.8,
           32.2,
-          32.2,
+          32.4,
           32.8,
           31.5
         ],
         "temperature_2m_min": [
-          18.6,
+          18.5,
+          18.4,
           18.7,
-          19.6,
-          19,
-          19.2,
+          18.9,
+          19.8,
           19.4,
           18.4
         ]
       },
-      "current_temperature": 22.1,
+      "current_temperature": 21.1,
       "daily_temperatures": {
-        "7am": 30.9,
-        "9am": 31.3,
-        "12pm": 25.5,
+        "7am": 30.6,
+        "9am": 30.8,
+        "12pm": 25.3,
         "7pm": 20.2
       }
     }
@@ -808,7 +808,7 @@
     "data": {
       "latitude": 16.875,
       "longitude": 97.625,
-      "generationtime_ms": 0.03421306610107422,
+      "generationtime_ms": 0.035881996154785156,
       "utc_offset_seconds": 0,
       "timezone": "GMT",
       "timezone_abbreviation": "GMT",
@@ -825,48 +825,48 @@
       },
       "daily": {
         "time": [
-          "Tue",
-          "Wed",
-          "Thu",
-          "Fri",
-          "Sat",
-          "Sun",
-          "Mon"
+          "21/01/2025",
+          "22/01/2025",
+          "23/01/2025",
+          "24/01/2025",
+          "25/01/2025",
+          "26/01/2025",
+          "27/01/2025"
         ],
         "weather_code": [
           45,
-          3,
-          3,
+          2,
+          1,
           1,
           45,
           45,
           45
         ],
         "temperature_2m_max": [
-          31.7,
-          31.9,
-          32.7,
-          33.6,
-          33.3,
+          31.4,
+          31.6,
+          32.4,
+          33.2,
+          33,
           34.1,
           34.1
         ],
         "temperature_2m_min": [
-          17.5,
-          17.1,
-          18.7,
-          17.7,
+          16.9,
           16.6,
+          18.5,
+          17,
+          16.3,
           15.9,
           16.2
         ]
       },
-      "current_temperature": 22.6,
+      "current_temperature": 20.3,
       "daily_temperatures": {
-        "7am": 31.3,
-        "9am": 31.5,
-        "12pm": 26.7,
-        "7pm": 19.2
+        "7am": 31.1,
+        "9am": 31.2,
+        "12pm": 26.3,
+        "7pm": 19.1
       }
     }
   },
@@ -875,7 +875,7 @@
     "data": {
       "latitude": 16.5,
       "longitude": 97.625,
-      "generationtime_ms": 0.02777576446533203,
+      "generationtime_ms": 0.5599260330200195,
       "utc_offset_seconds": 0,
       "timezone": "GMT",
       "timezone_abbreviation": "GMT",
@@ -892,18 +892,18 @@
       },
       "daily": {
         "time": [
-          "Tue",
-          "Wed",
-          "Thu",
-          "Fri",
-          "Sat",
-          "Sun",
-          "Mon"
+          "21/01/2025",
+          "22/01/2025",
+          "23/01/2025",
+          "24/01/2025",
+          "25/01/2025",
+          "26/01/2025",
+          "27/01/2025"
         ],
         "weather_code": [
           3,
           3,
-          3,
+          1,
           45,
           45,
           45,
@@ -911,29 +911,29 @@
         ],
         "temperature_2m_max": [
           30.5,
-          30.9,
-          30.9,
-          30.8,
-          30.6,
+          30.5,
+          30.5,
+          31.1,
+          30.5,
           30.8,
           31.3
         ],
         "temperature_2m_min": [
-          19.5,
-          19.6,
+          19.1,
           19.2,
-          19.5,
           19,
+          18.9,
+          18.6,
           18.1,
           18
         ]
       },
-      "current_temperature": 22.2,
+      "current_temperature": 20,
       "daily_temperatures": {
-        "7am": 30.2,
-        "9am": 30,
-        "12pm": 25.4,
-        "7pm": 19.6
+        "7am": 30,
+        "9am": 30.1,
+        "12pm": 25,
+        "7pm": 19.1
       }
     }
   },
@@ -942,7 +942,7 @@
     "data": {
       "latitude": 14.125,
       "longitude": 98.25,
-      "generationtime_ms": 0.037789344787597656,
+      "generationtime_ms": 0.02658367156982422,
       "utc_offset_seconds": 0,
       "timezone": "GMT",
       "timezone_abbreviation": "GMT",
@@ -959,48 +959,48 @@
       },
       "daily": {
         "time": [
-          "Tue",
-          "Wed",
-          "Thu",
-          "Fri",
-          "Sat",
-          "Sun",
-          "Mon"
+          "21/01/2025",
+          "22/01/2025",
+          "23/01/2025",
+          "24/01/2025",
+          "25/01/2025",
+          "26/01/2025",
+          "27/01/2025"
         ],
         "weather_code": [
           3,
           45,
           45,
           45,
-          45,
+          1,
           0,
           1
         ],
         "temperature_2m_max": [
-          33.7,
           33.5,
-          33.9,
-          34.3,
-          33.6,
+          33.8,
+          32.9,
+          34.1,
+          33.1,
           34,
           35.4
         ],
         "temperature_2m_min": [
-          15.9,
-          15.9,
-          16.9,
-          16.4,
-          15.5,
           16.2,
+          16.1,
+          16.7,
+          17.3,
+          15.9,
+          16.5,
           17.2
         ]
       },
-      "current_temperature": 20.5,
+      "current_temperature": 18.6,
       "daily_temperatures": {
-        "7am": 33.7,
-        "9am": 30.9,
-        "12pm": 25.1,
-        "7pm": 16.8
+        "7am": 33.5,
+        "9am": 30.2,
+        "12pm": 25,
+        "7pm": 17.4
       }
     }
   }
