@@ -28,16 +28,32 @@ async function getWeatherData(latitude, longitude) {
     );
   }
 
+  // Round temperature values
+  if (data.daily) {
+    if (data.daily.temperature_2m_max) {
+      data.daily.temperature_2m_max = data.daily.temperature_2m_max.map(
+        (temp) => Math.round(temp)
+      );
+    }
+    if (data.daily.temperature_2m_min) {
+      data.daily.temperature_2m_min = data.daily.temperature_2m_min.map(
+        (temp) => Math.round(temp)
+      );
+    }
+  }
+
   // Add current temperature
   if (data.hourly && data.hourly.temperature_2m) {
-    data.current_temperature = data.hourly.temperature_2m[currentHour];
+    data.current_temperature = Math.round(
+      data.hourly.temperature_2m[currentHour]
+    );
 
     // Get specific times
     data.daily_temperatures = {
-      "7am": data.hourly.temperature_2m[7],
-      "9am": data.hourly.temperature_2m[9],
-      "12pm": data.hourly.temperature_2m[12],
-      "7pm": data.hourly.temperature_2m[19],
+      "7am": Math.round(data.hourly.temperature_2m[7]),
+      "9am": Math.round(data.hourly.temperature_2m[9]),
+      "12pm": Math.round(data.hourly.temperature_2m[12]),
+      "7pm": Math.round(data.hourly.temperature_2m[19]),
     };
   }
   delete data.hourly;
