@@ -25,7 +25,7 @@ app.get("/api/export-weather", async (req, res) => {
 
     // Save to project directory
     const projectPath = path.join(__dirname, "..");
-    const filePath = path.join(projectPath, "weather-data-hourly.json");
+    const filePath = path.join(projectPath, "weather_data.json");
 
     fs.writeFileSync(filePath, JSON.stringify(weatherData, null, 2));
 
