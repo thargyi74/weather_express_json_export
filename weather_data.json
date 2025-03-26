@@ -4,10 +4,10 @@
     "data": {
       "latitude": 16.875,
       "longitude": 96.25,
-      "generationtime_ms": 0.027179718017578125,
-      "utc_offset_seconds": 0,
-      "timezone": "GMT",
-      "timezone_abbreviation": "GMT",
+      "generationtime_ms": 0.03600120544433594,
+      "utc_offset_seconds": 23400,
+      "timezone": "Asia/Yangon",
+      "timezone_abbreviation": "GMT+6:30",
       "elevation": 7,
       "hourly_units": {
         "time": "iso8601",
@@ -30,39 +30,40 @@
           "01/04/2025"
         ],
         "weather_code": [
-          0,
-          2,
-          2,
+          1,
           2,
           3,
+          2,
+          2,
           3,
           3
         ],
         "temperature_2m_max": [
           38,
           36,
-          35,
-          37,
           36,
           37,
-          36
+          38,
+          38,
+          38
         ],
         "temperature_2m_min": [
-          23,
+          24,
           23,
           24,
           24,
+          25,
           26,
-          26,
-          27
+          26
         ]
       },
       "current_temperature": 37,
       "daily_temperatures": {
-        "7am": 37,
-        "9am": 38,
-        "12pm": 34,
-        "7pm": 24
+        "7am": 25,
+        "9am": 30,
+        "12pm": 36,
+        "3pm": 38,
+        "7pm": 31
       }
     }
   },
@@ -71,10 +72,10 @@
     "data": {
       "latitude": 22,
       "longitude": 96.125,
-      "generationtime_ms": 0.03039836883544922,
-      "utc_offset_seconds": 0,
-      "timezone": "GMT",
-      "timezone_abbreviation": "GMT",
+      "generationtime_ms": 0.03254413604736328,
+      "utc_offset_seconds": 23400,
+      "timezone": "Asia/Yangon",
+      "timezone_abbreviation": "GMT+6:30",
       "elevation": 76,
       "hourly_units": {
         "time": "iso8601",
@@ -98,38 +99,39 @@
         ],
         "weather_code": [
           2,
+          2,
           3,
-          3,
-          0,
+          1,
           2,
           2,
-          1
+          2
         ],
         "temperature_2m_max": [
           38,
           38,
           38,
           40,
-          41,
           42,
+          41,
           40
         ],
         "temperature_2m_min": [
-          21,
+          22,
+          23,
           24,
           25,
-          25,
-          25,
-          25,
+          24,
+          26,
           26
         ]
       },
       "current_temperature": 37,
       "daily_temperatures": {
-        "7am": 37,
-        "9am": 38,
-        "12pm": 33,
-        "7pm": 25
+        "7am": 24,
+        "9am": 31,
+        "12pm": 36,
+        "3pm": 37,
+        "7pm": 29
       }
     }
   },
@@ -138,10 +140,10 @@
     "data": {
       "latitude": 25.375,
       "longitude": 97.375,
-      "generationtime_ms": 0.34737586975097656,
-      "utc_offset_seconds": 0,
-      "timezone": "GMT",
-      "timezone_abbreviation": "GMT",
+      "generationtime_ms": 0.5201101303100586,
+      "utc_offset_seconds": 23400,
+      "timezone": "Asia/Yangon",
+      "timezone_abbreviation": "GMT+6:30",
       "elevation": 143,
       "hourly_units": {
         "time": "iso8601",
@@ -164,7 +166,7 @@
           "01/04/2025"
         ],
         "weather_code": [
-          2,
+          0,
           2,
           3,
           2,
@@ -176,27 +178,28 @@
           33,
           34,
           35,
-          36,
           37,
-          36,
+          37,
+          37,
           37
         ],
         "temperature_2m_min": [
-          19,
+          20,
           21,
           22,
           23,
-          24,
-          22,
-          22
+          23,
+          23,
+          21
         ]
       },
       "current_temperature": 33,
       "daily_temperatures": {
-        "7am": 33,
-        "9am": 33,
-        "12pm": 30,
-        "7pm": 21
+        "7am": 21,
+        "9am": 27,
+        "12pm": 32,
+        "3pm": 33,
+        "7pm": 26
       }
     }
   },
@@ -205,10 +208,10 @@
     "data": {
       "latitude": 22.625,
       "longitude": 93.625,
-      "generationtime_ms": 0.0362396240234375,
-      "utc_offset_seconds": 0,
-      "timezone": "GMT",
-      "timezone_abbreviation": "GMT",
+      "generationtime_ms": 0.04553794860839844,
+      "utc_offset_seconds": 23400,
+      "timezone": "Asia/Yangon",
+      "timezone_abbreviation": "GMT+6:30",
       "elevation": 1713,
       "hourly_units": {
         "time": "iso8601",
@@ -232,38 +235,39 @@
         ],
         "weather_code": [
           3,
-          2,
           3,
           2,
-          3,
           2,
-          3
+          2,
+          1,
+          0
         ],
         "temperature_2m_max": [
           24,
           23,
-          25,
+          26,
           27,
           28,
-          26,
-          26
+          27,
+          27
         ],
         "temperature_2m_min": [
           9,
           11,
           12,
-          12,
+          13,
           13,
           14,
-          14
+          13
         ]
       },
-      "current_temperature": 22,
+      "current_temperature": 24,
       "daily_temperatures": {
-        "7am": 24,
-        "9am": 23,
-        "12pm": 19,
-        "7pm": 13
+        "7am": 12,
+        "9am": 20,
+        "12pm": 24,
+        "3pm": 23,
+        "7pm": 17
       }
     }
   },
@@ -272,10 +276,10 @@
     "data": {
       "latitude": 22.125,
       "longitude": 95.125,
-      "generationtime_ms": 0.02872943878173828,
-      "utc_offset_seconds": 0,
-      "timezone": "GMT",
-      "timezone_abbreviation": "GMT",
+      "generationtime_ms": 0.034689903259277344,
+      "utc_offset_seconds": 23400,
+      "timezone": "Asia/Yangon",
+      "timezone_abbreviation": "GMT+6:30",
       "elevation": 80,
       "hourly_units": {
         "time": "iso8601",
@@ -298,9 +302,9 @@
           "01/04/2025"
         ],
         "weather_code": [
+          1,
           2,
           3,
-          2,
           2,
           2,
           2,
@@ -312,25 +316,26 @@
           38,
           40,
           40,
-          40,
+          41,
           40
         ],
         "temperature_2m_min": [
           22,
           23,
+          24,
           25,
           25,
-          25,
-          25,
-          26
+          24,
+          25
         ]
       },
       "current_temperature": 36,
       "daily_temperatures": {
-        "7am": 37,
-        "9am": 37,
-        "12pm": 34,
-        "7pm": 24
+        "7am": 23,
+        "9am": 30,
+        "12pm": 36,
+        "3pm": 37,
+        "7pm": 30
       }
     }
   },
@@ -339,10 +344,10 @@
     "data": {
       "latitude": 20.75,
       "longitude": 97,
-      "generationtime_ms": 0.048279762268066406,
-      "utc_offset_seconds": 0,
-      "timezone": "GMT",
-      "timezone_abbreviation": "GMT",
+      "generationtime_ms": 0.25177001953125,
+      "utc_offset_seconds": 23400,
+      "timezone": "Asia/Yangon",
+      "timezone_abbreviation": "GMT+6:30",
       "elevation": 1402,
       "hourly_units": {
         "time": "iso8601",
@@ -367,37 +372,38 @@
         "weather_code": [
           3,
           3,
-          3,
-          1,
-          3,
           2,
+          2,
+          2,
+          3,
           2
         ],
         "temperature_2m_max": [
           27,
           28,
-          29,
+          30,
           31,
-          32,
+          31,
           30,
           30
         ],
         "temperature_2m_min": [
           14,
-          14,
+          13,
+          16,
           16,
           14,
-          15,
           16,
           16
         ]
       },
-      "current_temperature": 26,
+      "current_temperature": 27,
       "daily_temperatures": {
-        "7am": 27,
-        "9am": 26,
-        "12pm": 22,
-        "7pm": 14
+        "7am": 16,
+        "9am": 23,
+        "12pm": 27,
+        "3pm": 26,
+        "7pm": 21
       }
     }
   },
@@ -406,10 +412,10 @@
     "data": {
       "latitude": 20.125,
       "longitude": 92.875,
-      "generationtime_ms": 0.027298927307128906,
-      "utc_offset_seconds": 0,
-      "timezone": "GMT",
-      "timezone_abbreviation": "GMT",
+      "generationtime_ms": 0.037670135498046875,
+      "utc_offset_seconds": 23400,
+      "timezone": "Asia/Yangon",
+      "timezone_abbreviation": "GMT+6:30",
       "elevation": 15,
       "hourly_units": {
         "time": "iso8601",
@@ -435,10 +441,10 @@
           1,
           2,
           2,
-          45,
-          45,
-          45,
-          45
+          3,
+          3,
+          3,
+          2
         ],
         "temperature_2m_max": [
           31,
@@ -447,7 +453,7 @@
           30,
           31,
           31,
-          30
+          31
         ],
         "temperature_2m_min": [
           23,
@@ -455,16 +461,17 @@
           25,
           25,
           25,
-          24,
+          25,
           24
         ]
       },
-      "current_temperature": 29,
+      "current_temperature": 31,
       "daily_temperatures": {
-        "7am": 31,
-        "9am": 30,
-        "12pm": 27,
-        "7pm": 25
+        "7am": 24,
+        "9am": 28,
+        "12pm": 31,
+        "3pm": 30,
+        "7pm": 26
       }
     }
   },
@@ -473,10 +480,10 @@
     "data": {
       "latitude": 20.125,
       "longitude": 95,
-      "generationtime_ms": 0.05030632019042969,
-      "utc_offset_seconds": 0,
-      "timezone": "GMT",
-      "timezone_abbreviation": "GMT",
+      "generationtime_ms": 0.026226043701171875,
+      "utc_offset_seconds": 23400,
+      "timezone": "Asia/Yangon",
+      "timezone_abbreviation": "GMT+6:30",
       "elevation": 84,
       "hourly_units": {
         "time": "iso8601",
@@ -501,37 +508,38 @@
         "weather_code": [
           2,
           3,
+          1,
+          1,
+          1,
           2,
-          2,
-          3,
-          0,
-          0
+          2
         ],
         "temperature_2m_max": [
           37,
-          38,
+          37,
           38,
           39,
-          41,
+          42,
           41,
           41
         ],
         "temperature_2m_min": [
-          24,
+          25,
           23,
-          23,
           24,
           24,
-          22,
-          22
+          24,
+          25,
+          25
         ]
       },
-      "current_temperature": 37,
+      "current_temperature": 36,
       "daily_temperatures": {
-        "7am": 37,
-        "9am": 37,
-        "12pm": 34,
-        "7pm": 26
+        "7am": 26,
+        "9am": 30,
+        "12pm": 36,
+        "3pm": 37,
+        "7pm": 31
       }
     }
   },
@@ -540,10 +548,10 @@
     "data": {
       "latitude": 19.75,
       "longitude": 96.125,
-      "generationtime_ms": 1.5224218368530273,
-      "utc_offset_seconds": 0,
-      "timezone": "GMT",
-      "timezone_abbreviation": "GMT",
+      "generationtime_ms": 0.0362396240234375,
+      "utc_offset_seconds": 23400,
+      "timezone": "Asia/Yangon",
+      "timezone_abbreviation": "GMT+6:30",
       "elevation": 152,
       "hourly_units": {
         "time": "iso8601",
@@ -567,7 +575,7 @@
         ],
         "weather_code": [
           2,
-          1,
+          2,
           2,
           1,
           2,
@@ -578,27 +586,28 @@
           36,
           37,
           37,
-          39,
+          38,
           40,
-          39,
+          40,
           40
         ],
         "temperature_2m_min": [
+          24,
+          21,
           22,
-          22,
-          22,
+          23,
           19,
-          20,
           25,
-          25
+          26
         ]
       },
-      "current_temperature": 35,
+      "current_temperature": 36,
       "daily_temperatures": {
-        "7am": 36,
-        "9am": 36,
-        "12pm": 32,
-        "7pm": 23
+        "7am": 25,
+        "9am": 29,
+        "12pm": 35,
+        "3pm": 36,
+        "7pm": 29
       }
     }
   },
@@ -607,10 +616,10 @@
     "data": {
       "latitude": 19.625,
       "longitude": 97.25,
-      "generationtime_ms": 0.9450912475585938,
-      "utc_offset_seconds": 0,
-      "timezone": "GMT",
-      "timezone_abbreviation": "GMT",
+      "generationtime_ms": 0.02968311309814453,
+      "utc_offset_seconds": 23400,
+      "timezone": "Asia/Yangon",
+      "timezone_abbreviation": "GMT+6:30",
       "elevation": 894,
       "hourly_units": {
         "time": "iso8601",
@@ -633,39 +642,40 @@
           "01/04/2025"
         ],
         "weather_code": [
-          3,
-          3,
-          0,
           2,
           3,
+          1,
+          2,
+          2,
           3,
-          2
+          3
         ],
         "temperature_2m_max": [
+          32,
           33,
           33,
-          33,
-          35,
+          34,
           35,
           34,
-          35
+          34
         ],
         "temperature_2m_min": [
+          17,
           16,
-          16,
-          16,
-          16,
-          18,
-          20,
+          17,
+          17,
+          17,
+          21,
           20
         ]
       },
-      "current_temperature": 31,
+      "current_temperature": 32,
       "daily_temperatures": {
-        "7am": 32,
-        "9am": 32,
-        "12pm": 27,
-        "7pm": 18
+        "7am": 21,
+        "9am": 27,
+        "12pm": 31,
+        "3pm": 32,
+        "7pm": 25
       }
     }
   },
@@ -674,10 +684,10 @@
     "data": {
       "latitude": 17.375,
       "longitude": 96.5,
-      "generationtime_ms": 0.03707408905029297,
-      "utc_offset_seconds": 0,
-      "timezone": "GMT",
-      "timezone_abbreviation": "GMT",
+      "generationtime_ms": 0.04088878631591797,
+      "utc_offset_seconds": 23400,
+      "timezone": "Asia/Yangon",
+      "timezone_abbreviation": "GMT+6:30",
       "elevation": 13,
       "hourly_units": {
         "time": "iso8601",
@@ -701,38 +711,39 @@
         ],
         "weather_code": [
           2,
-          2,
-          2,
+          1,
+          45,
+          45,
           2,
           3,
-          3,
-          45
+          3
         ],
         "temperature_2m_max": [
           37,
           35,
           35,
           37,
-          36,
-          37,
-          37
+          38,
+          38,
+          38
         ],
         "temperature_2m_min": [
-          22,
+          23,
           21,
-          22,
-          22,
+          23,
+          23,
           24,
           25,
-          26
+          25
         ]
       },
-      "current_temperature": 37,
+      "current_temperature": 36,
       "daily_temperatures": {
-        "7am": 36,
-        "9am": 37,
-        "12pm": 32,
-        "7pm": 23
+        "7am": 24,
+        "9am": 30,
+        "12pm": 35,
+        "3pm": 37,
+        "7pm": 29
       }
     }
   },
@@ -741,10 +752,10 @@
     "data": {
       "latitude": 16.75,
       "longitude": 94.75,
-      "generationtime_ms": 0.5031824111938477,
-      "utc_offset_seconds": 0,
-      "timezone": "GMT",
-      "timezone_abbreviation": "GMT",
+      "generationtime_ms": 0.05257129669189453,
+      "utc_offset_seconds": 23400,
+      "timezone": "Asia/Yangon",
+      "timezone_abbreviation": "GMT+6:30",
       "elevation": 12,
       "hourly_units": {
         "time": "iso8601",
@@ -767,39 +778,40 @@
           "01/04/2025"
         ],
         "weather_code": [
+          1,
           2,
-          2,
-          2,
+          3,
           2,
           3,
           3,
-          3
+          2
         ],
         "temperature_2m_max": [
           34,
           33,
-          35,
-          36,
+          34,
+          37,
           38,
           37,
-          37
+          36
         ],
         "temperature_2m_min": [
-          23,
           24,
           24,
           24,
           25,
+          24,
           25,
           26
         ]
       },
-      "current_temperature": 31,
+      "current_temperature": 34,
       "daily_temperatures": {
-        "7am": 34,
-        "9am": 33,
-        "12pm": 28,
-        "7pm": 23
+        "7am": 25,
+        "9am": 30,
+        "12pm": 34,
+        "3pm": 32,
+        "7pm": 26
       }
     }
   },
@@ -808,10 +820,10 @@
     "data": {
       "latitude": 16.875,
       "longitude": 97.625,
-      "generationtime_ms": 0.03504753112792969,
-      "utc_offset_seconds": 0,
-      "timezone": "GMT",
-      "timezone_abbreviation": "GMT",
+      "generationtime_ms": 0.17654895782470703,
+      "utc_offset_seconds": 23400,
+      "timezone": "Asia/Yangon",
+      "timezone_abbreviation": "GMT+6:30",
       "elevation": 6,
       "hourly_units": {
         "time": "iso8601",
@@ -834,39 +846,40 @@
           "01/04/2025"
         ],
         "weather_code": [
+          45,
           2,
           2,
           2,
-          2,
-          95,
-          95,
-          80
+          3,
+          3,
+          95
         ],
         "temperature_2m_max": [
-          36,
+          37,
           35,
           36,
           37,
+          38,
           36,
-          35,
-          33
+          35
         ],
         "temperature_2m_min": [
           24,
           22,
           22,
-          22,
+          23,
           26,
           26,
           26
         ]
       },
-      "current_temperature": 35,
+      "current_temperature": 37,
       "daily_temperatures": {
-        "7am": 36,
-        "9am": 36,
-        "12pm": 31,
-        "7pm": 24
+        "7am": 27,
+        "9am": 31,
+        "12pm": 36,
+        "3pm": 36,
+        "7pm": 30
       }
     }
   },
@@ -875,10 +888,10 @@
     "data": {
       "latitude": 16.5,
       "longitude": 97.625,
-      "generationtime_ms": 0.04303455352783203,
-      "utc_offset_seconds": 0,
-      "timezone": "GMT",
-      "timezone_abbreviation": "GMT",
+      "generationtime_ms": 0.02765655517578125,
+      "utc_offset_seconds": 23400,
+      "timezone": "Asia/Yangon",
+      "timezone_abbreviation": "GMT+6:30",
       "elevation": 23,
       "hourly_units": {
         "time": "iso8601",
@@ -904,36 +917,37 @@
           2,
           2,
           2,
-          2,
-          95,
-          95,
-          95
+          3,
+          3,
+          80,
+          96
         ],
         "temperature_2m_max": [
-          33,
+          34,
           32,
           32,
           33,
           34,
-          34,
-          32
+          33,
+          33
         ],
         "temperature_2m_min": [
           26,
-          24,
+          25,
           24,
           25,
           26,
-          26,
+          27,
           26
         ]
       },
-      "current_temperature": 32,
+      "current_temperature": 33,
       "daily_temperatures": {
-        "7am": 33,
-        "9am": 33,
-        "12pm": 29,
-        "7pm": 27
+        "7am": 27,
+        "9am": 30,
+        "12pm": 34,
+        "3pm": 33,
+        "7pm": 28
       }
     }
   },
@@ -942,10 +956,10 @@
     "data": {
       "latitude": 14.125,
       "longitude": 98.25,
-      "generationtime_ms": 0.05245208740234375,
-      "utc_offset_seconds": 0,
-      "timezone": "GMT",
-      "timezone_abbreviation": "GMT",
+      "generationtime_ms": 0.02849102020263672,
+      "utc_offset_seconds": 23400,
+      "timezone": "Asia/Yangon",
+      "timezone_abbreviation": "GMT+6:30",
       "elevation": 9,
       "hourly_units": {
         "time": "iso8601",
@@ -974,33 +988,34 @@
           2,
           3,
           96,
-          95
+          96
         ],
         "temperature_2m_max": [
           34,
           34,
           34,
+          35,
           36,
           35,
-          34,
-          33
+          32
         ],
         "temperature_2m_min": [
           24,
-          23,
-          21,
-          21,
           24,
+          22,
+          21,
+          23,
           24,
           25
         ]
       },
-      "current_temperature": 31,
+      "current_temperature": 34,
       "daily_temperatures": {
-        "7am": 34,
-        "9am": 33,
-        "12pm": 29,
-        "7pm": 26
+        "7am": 27,
+        "9am": 31,
+        "12pm": 34,
+        "3pm": 33,
+        "7pm": 28
       }
     }
   }

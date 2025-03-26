@@ -1,24 +1,22 @@
-const fetch = require('node-fetch');
+const fetch = require("node-fetch");
 
 async function getWeatherData(latitude, longitude) {
-  const url = `https://api.open-meteo.com/v1/forecast?latitude=${latitude}&longitude=${longitude}&hourly=temperature_2m&daily=weather_code,temperature_2m_max,temperature_2m_min&timezone=GMT`;
+  const url = `https://api.open-meteo.com/v1/forecast?latitude=${latitude}&longitude=${longitude}&hourly=temperature_2m&daily=weather_code,temperature_2m_max,temperature_2m_min&timezone=Asia%2FYangon`; // Updated timezone
 
   const response = await fetch(url);
   const data = await response.json();
 
-  // Get current hour
+  // Get current hour in Myanmar time
   const now = new Date();
-  const currentHour = now.getHours();
-
-  // Format daily dates
-  // if (data.daily && data.daily.time) {
-  //   data.daily.time = data.daily.time.map((date) =>
-  //     new Date(date).toLocaleDateString("en-US", { weekday: "short" })
-  //   );
-  // }
+  const options = {
+    timeZone: "Asia/Yangon",
+    hour: "numeric",
+    hour12: false,
+  };
+  const currentHour = parseInt(now.toLocaleString("en-US", options));
 
   // Format daily dates to DD/MM/YYYY
-  if (data.daily && data.daily.time) {
+  if (data.daily?.time) {
     data.daily.time = data.daily.time.map((date) =>
       new Date(date).toLocaleDateString("en-GB", {
         day: "2-digit",
@@ -30,29 +28,25 @@ async function getWeatherData(latitude, longitude) {
 
   // Round temperature values
   if (data.daily) {
-    if (data.daily.temperature_2m_max) {
-      data.daily.temperature_2m_max = data.daily.temperature_2m_max.map(
-        (temp) => Math.round(temp)
-      );
-    }
-    if (data.daily.temperature_2m_min) {
-      data.daily.temperature_2m_min = data.daily.temperature_2m_min.map(
-        (temp) => Math.round(temp)
-      );
-    }
+    ["temperature_2m_max", "temperature_2m_min"].forEach((key) => {
+      if (data.daily[key]) {
+        data.daily[key] = data.daily[key].map((temp) => Math.round(temp));
+      }
+    });
   }
 
   // Add current temperature
-  if (data.hourly && data.hourly.temperature_2m) {
+  if (data.hourly?.temperature_2m) {
     data.current_temperature = Math.round(
-      data.hourly.temperature_2m[currentHour]
+      data.hourly.temperature_2m[currentHour] // Now uses Myanmar hour
     );
 
-    // Get specific times
+    // Get specific times (already in Myanmar time)
     data.daily_temperatures = {
       "7am": Math.round(data.hourly.temperature_2m[7]),
       "9am": Math.round(data.hourly.temperature_2m[9]),
       "12pm": Math.round(data.hourly.temperature_2m[12]),
+      "3pm": Math.round(data.hourly.temperature_2m[15]),
       "7pm": Math.round(data.hourly.temperature_2m[19]),
     };
   }
@@ -61,6 +55,4 @@ async function getWeatherData(latitude, longitude) {
   return data;
 }
 
-module.exports = {
-  getWeatherData
-};
+module.exports = { getWeatherData };
