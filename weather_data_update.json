@@ -20,12 +20,12 @@
       {
         "city": "Mandalay",
         "country": "Myanmar",
-        "temperature": "37°C",
+        "temperature": "38°C",
         "description": "Sunny",
         "iconURL": "https://cdn.weatherapi.com/weather/64x64/day/113.png",
-        "humidity": "34%",
-        "wind": "12 km/h",
-        "pressure": "1005 mb"
+        "humidity": "31%",
+        "wind": "11 km/h",
+        "pressure": "1003 mb"
       }
     ]
   },
@@ -35,12 +35,12 @@
       {
         "city": "Myitkyina",
         "country": "Myanmar",
-        "temperature": "35°C",
+        "temperature": "36°C",
         "description": "Sunny",
         "iconURL": "https://cdn.weatherapi.com/weather/64x64/day/113.png",
-        "humidity": "35%",
-        "wind": "4 km/h",
-        "pressure": "1005 mb"
+        "humidity": "31%",
+        "wind": "5 km/h",
+        "pressure": "1004 mb"
       }
     ]
   },
@@ -50,12 +50,12 @@
       {
         "city": "Monywa",
         "country": "Myanmar",
-        "temperature": "37°C",
+        "temperature": "38°C",
         "description": "Sunny",
         "iconURL": "https://cdn.weatherapi.com/weather/64x64/day/113.png",
-        "humidity": "31%",
-        "wind": "9 km/h",
-        "pressure": "1004 mb"
+        "humidity": "29%",
+        "wind": "10 km/h",
+        "pressure": "1003 mb"
       }
     ]
   },
@@ -65,12 +65,12 @@
       {
         "city": "Taunggyi",
         "country": "Myanmar",
-        "temperature": "30°C",
-        "description": "Partly Cloudy",
-        "iconURL": "https://cdn.weatherapi.com/weather/64x64/day/116.png",
-        "humidity": "32%",
+        "temperature": "31°C",
+        "description": "Sunny",
+        "iconURL": "https://cdn.weatherapi.com/weather/64x64/day/113.png",
+        "humidity": "28%",
         "wind": "8 km/h",
-        "pressure": "1007 mb"
+        "pressure": "1006 mb"
       }
     ]
   },
@@ -83,9 +83,9 @@
         "temperature": "31°C",
         "description": "Sunny",
         "iconURL": "https://cdn.weatherapi.com/weather/64x64/day/113.png",
-        "humidity": "62%",
-        "wind": "15 km/h",
-        "pressure": "1007 mb"
+        "humidity": "61%",
+        "wind": "18 km/h",
+        "pressure": "1006 mb"
       }
     ]
   },
@@ -95,12 +95,12 @@
       {
         "city": "Magway",
         "country": "Myanmar",
-        "temperature": "36°C",
+        "temperature": "38°C",
         "description": "Sunny",
         "iconURL": "https://cdn.weatherapi.com/weather/64x64/day/113.png",
-        "humidity": "30%",
+        "humidity": "25%",
         "wind": "9 km/h",
-        "pressure": "1005 mb"
+        "pressure": "1004 mb"
       }
     ]
   },
@@ -110,12 +110,12 @@
       {
         "city": "Loikaw",
         "country": "Myanmar",
-        "temperature": "34°C",
-        "description": "Partly Cloudy",
-        "iconURL": "https://cdn.weatherapi.com/weather/64x64/day/116.png",
-        "humidity": "30%",
+        "temperature": "35°C",
+        "description": "Sunny",
+        "iconURL": "https://cdn.weatherapi.com/weather/64x64/day/113.png",
+        "humidity": "27%",
         "wind": "5 km/h",
-        "pressure": "1007 mb"
+        "pressure": "1005 mb"
       }
     ]
   },
@@ -125,12 +125,12 @@
       {
         "city": "Bago",
         "country": "Myanmar",
-        "temperature": "34°C",
+        "temperature": "36°C",
         "description": "Sunny",
         "iconURL": "https://cdn.weatherapi.com/weather/64x64/day/113.png",
-        "humidity": "41%",
-        "wind": "9 km/h",
-        "pressure": "1007 mb"
+        "humidity": "35%",
+        "wind": "11 km/h",
+        "pressure": "1005 mb"
       }
     ]
   },
@@ -143,9 +143,9 @@
         "temperature": "36°C",
         "description": "Sunny",
         "iconURL": "https://cdn.weatherapi.com/weather/64x64/day/113.png",
-        "humidity": "38%",
-        "wind": "18 km/h",
-        "pressure": "1007 mb"
+        "humidity": "36%",
+        "wind": "20 km/h",
+        "pressure": "1006 mb"
       }
     ]
   },
@@ -158,9 +158,9 @@
         "temperature": "36°C",
         "description": "Sunny",
         "iconURL": "https://cdn.weatherapi.com/weather/64x64/day/113.png",
-        "humidity": "38%",
-        "wind": "18 km/h",
-        "pressure": "1007 mb"
+        "humidity": "36%",
+        "wind": "20 km/h",
+        "pressure": "1006 mb"
       }
     ]
   },
@@ -173,9 +173,9 @@
         "temperature": "32°C",
         "description": "Partly Cloudy",
         "iconURL": "https://cdn.weatherapi.com/weather/64x64/day/116.png",
-        "humidity": "51%",
-        "wind": "14 km/h",
-        "pressure": "1007 mb"
+        "humidity": "50%",
+        "wind": "17 km/h",
+        "pressure": "1006 mb"
       }
     ]
   },
@@ -188,9 +188,9 @@
         "temperature": "30°C",
         "description": "Patchy rain nearby",
         "iconURL": "https://cdn.weatherapi.com/weather/64x64/day/176.png",
-        "humidity": "68%",
-        "wind": "9 km/h",
-        "pressure": "1008 mb"
+        "humidity": "69%",
+        "wind": "8 km/h",
+        "pressure": "1007 mb"
       }
     ]
   }

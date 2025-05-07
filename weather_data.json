@@ -1,197 +1,1022 @@
 [
   {
     "city": "Yangon",
-    "data": [
-      {
-        "city": "Yangon",
-        "country": "Myanmar",
-        "temperature": "33°C",
-        "description": "Partly cloudy",
-        "iconURL": "https://cdn.weatherapi.com/weather/64x64/day/116.png",
-        "humidity": "71%",
-        "wind": "9 km/h",
-        "pressure": "1007 mb"
+    "data": {
+      "latitude": 16.875,
+      "longitude": 96.25,
+      "generationtime_ms": 0.22351741790771484,
+      "utc_offset_seconds": 23400,
+      "timezone": "Asia/Yangon",
+      "timezone_abbreviation": "GMT+6:30",
+      "elevation": 7,
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "°C"
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "weather_code": "wmo code",
+        "temperature_2m_max": "°C",
+        "temperature_2m_min": "°C"
+      },
+      "daily": {
+        "time": [
+          "07/05/2025",
+          "08/05/2025",
+          "09/05/2025",
+          "10/05/2025",
+          "11/05/2025",
+          "12/05/2025",
+          "13/05/2025"
+        ],
+        "weather_code": [
+          3,
+          3,
+          3,
+          80,
+          80,
+          80,
+          95
+        ],
+        "temperature_2m_max": [
+          37,
+          37,
+          37,
+          36,
+          35,
+          34,
+          33
+        ],
+        "temperature_2m_min": [
+          27,
+          27,
+          27,
+          28,
+          28,
+          27,
+          27
+        ]
+      },
+      "current_temperature": 36,
+      "daily_temperatures": {
+        "7am": 28,
+        "9am": 31,
+        "12pm": 36,
+        "3pm": 37,
+        "7pm": 31
       }
-    ]
+    }
   },
   {
     "city": "Mandalay",
-    "data": [
-      {
-        "city": "Mandalay",
-        "country": "Myanmar",
-        "temperature": "37°C",
-        "description": "Sunny",
-        "iconURL": "https://cdn.weatherapi.com/weather/64x64/day/113.png",
-        "humidity": "34%",
-        "wind": "12 km/h",
-        "pressure": "1005 mb"
+    "data": {
+      "latitude": 22,
+      "longitude": 96.125,
+      "generationtime_ms": 0.20313262939453125,
+      "utc_offset_seconds": 23400,
+      "timezone": "Asia/Yangon",
+      "timezone_abbreviation": "GMT+6:30",
+      "elevation": 76,
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "°C"
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "weather_code": "wmo code",
+        "temperature_2m_max": "°C",
+        "temperature_2m_min": "°C"
+      },
+      "daily": {
+        "time": [
+          "07/05/2025",
+          "08/05/2025",
+          "09/05/2025",
+          "10/05/2025",
+          "11/05/2025",
+          "12/05/2025",
+          "13/05/2025"
+        ],
+        "weather_code": [
+          3,
+          2,
+          2,
+          95,
+          96,
+          96,
+          96
+        ],
+        "temperature_2m_max": [
+          36,
+          38,
+          39,
+          39,
+          37,
+          34,
+          34
+        ],
+        "temperature_2m_min": [
+          27,
+          27,
+          27,
+          28,
+          27,
+          27,
+          27
+        ]
+      },
+      "current_temperature": 36,
+      "daily_temperatures": {
+        "7am": 29,
+        "9am": 31,
+        "12pm": 36,
+        "3pm": 36,
+        "7pm": 32
       }
-    ]
+    }
   },
   {
     "city": "Myitkyina",
-    "data": [
-      {
-        "city": "Myitkyina",
-        "country": "Myanmar",
-        "temperature": "35°C",
-        "description": "Sunny",
-        "iconURL": "https://cdn.weatherapi.com/weather/64x64/day/113.png",
-        "humidity": "35%",
-        "wind": "4 km/h",
-        "pressure": "1005 mb"
+    "data": {
+      "latitude": 25.375,
+      "longitude": 97.375,
+      "generationtime_ms": 0.03790855407714844,
+      "utc_offset_seconds": 23400,
+      "timezone": "Asia/Yangon",
+      "timezone_abbreviation": "GMT+6:30",
+      "elevation": 143,
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "°C"
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "weather_code": "wmo code",
+        "temperature_2m_max": "°C",
+        "temperature_2m_min": "°C"
+      },
+      "daily": {
+        "time": [
+          "07/05/2025",
+          "08/05/2025",
+          "09/05/2025",
+          "10/05/2025",
+          "11/05/2025",
+          "12/05/2025",
+          "13/05/2025"
+        ],
+        "weather_code": [
+          95,
+          95,
+          3,
+          3,
+          80,
+          95,
+          95
+        ],
+        "temperature_2m_max": [
+          32,
+          33,
+          34,
+          35,
+          34,
+          28,
+          28
+        ],
+        "temperature_2m_min": [
+          24,
+          24,
+          26,
+          26,
+          27,
+          26,
+          25
+        ]
+      },
+      "current_temperature": 31,
+      "daily_temperatures": {
+        "7am": 25,
+        "9am": 27,
+        "12pm": 31,
+        "3pm": 32,
+        "7pm": 30
       }
-    ]
+    }
+  },
+  {
+    "city": "Hakha",
+    "data": {
+      "latitude": 22.625,
+      "longitude": 93.625,
+      "generationtime_ms": 0.031948089599609375,
+      "utc_offset_seconds": 23400,
+      "timezone": "Asia/Yangon",
+      "timezone_abbreviation": "GMT+6:30",
+      "elevation": 1713,
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "°C"
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "weather_code": "wmo code",
+        "temperature_2m_max": "°C",
+        "temperature_2m_min": "°C"
+      },
+      "daily": {
+        "time": [
+          "07/05/2025",
+          "08/05/2025",
+          "09/05/2025",
+          "10/05/2025",
+          "11/05/2025",
+          "12/05/2025",
+          "13/05/2025"
+        ],
+        "weather_code": [
+          3,
+          2,
+          3,
+          2,
+          96,
+          80,
+          3
+        ],
+        "temperature_2m_max": [
+          24,
+          25,
+          26,
+          27,
+          25,
+          23,
+          24
+        ],
+        "temperature_2m_min": [
+          15,
+          16,
+          16,
+          16,
+          16,
+          17,
+          17
+        ]
+      },
+      "current_temperature": 24,
+      "daily_temperatures": {
+        "7am": 18,
+        "9am": 21,
+        "12pm": 24,
+        "3pm": 24,
+        "7pm": 19
+      }
+    }
   },
   {
     "city": "Monywa",
-    "data": [
-      {
-        "city": "Monywa",
-        "country": "Myanmar",
-        "temperature": "37°C",
-        "description": "Sunny",
-        "iconURL": "https://cdn.weatherapi.com/weather/64x64/day/113.png",
-        "humidity": "31%",
-        "wind": "9 km/h",
-        "pressure": "1004 mb"
+    "data": {
+      "latitude": 22.125,
+      "longitude": 95.125,
+      "generationtime_ms": 0.18870830535888672,
+      "utc_offset_seconds": 23400,
+      "timezone": "Asia/Yangon",
+      "timezone_abbreviation": "GMT+6:30",
+      "elevation": 80,
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "°C"
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "weather_code": "wmo code",
+        "temperature_2m_max": "°C",
+        "temperature_2m_min": "°C"
+      },
+      "daily": {
+        "time": [
+          "07/05/2025",
+          "08/05/2025",
+          "09/05/2025",
+          "10/05/2025",
+          "11/05/2025",
+          "12/05/2025",
+          "13/05/2025"
+        ],
+        "weather_code": [
+          3,
+          2,
+          3,
+          95,
+          95,
+          96,
+          81
+        ],
+        "temperature_2m_max": [
+          37,
+          38,
+          40,
+          41,
+          39,
+          37,
+          35
+        ],
+        "temperature_2m_min": [
+          27,
+          28,
+          28,
+          29,
+          27,
+          27,
+          27
+        ]
+      },
+      "current_temperature": 36,
+      "daily_temperatures": {
+        "7am": 29,
+        "9am": 31,
+        "12pm": 36,
+        "3pm": 37,
+        "7pm": 33
       }
-    ]
+    }
   },
   {
     "city": "Taunggyi",
-    "data": [
-      {
-        "city": "Taunggyi",
-        "country": "Myanmar",
-        "temperature": "30°C",
-        "description": "Partly Cloudy",
-        "iconURL": "https://cdn.weatherapi.com/weather/64x64/day/116.png",
-        "humidity": "32%",
-        "wind": "8 km/h",
-        "pressure": "1007 mb"
+    "data": {
+      "latitude": 20.75,
+      "longitude": 97,
+      "generationtime_ms": 0.037670135498046875,
+      "utc_offset_seconds": 23400,
+      "timezone": "Asia/Yangon",
+      "timezone_abbreviation": "GMT+6:30",
+      "elevation": 1402,
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "°C"
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "weather_code": "wmo code",
+        "temperature_2m_max": "°C",
+        "temperature_2m_min": "°C"
+      },
+      "daily": {
+        "time": [
+          "07/05/2025",
+          "08/05/2025",
+          "09/05/2025",
+          "10/05/2025",
+          "11/05/2025",
+          "12/05/2025",
+          "13/05/2025"
+        ],
+        "weather_code": [
+          3,
+          3,
+          3,
+          3,
+          96,
+          80,
+          80
+        ],
+        "temperature_2m_max": [
+          29,
+          29,
+          30,
+          29,
+          28,
+          27,
+          27
+        ],
+        "temperature_2m_min": [
+          18,
+          17,
+          18,
+          20,
+          20,
+          19,
+          19
+        ]
+      },
+      "current_temperature": 28,
+      "daily_temperatures": {
+        "7am": 22,
+        "9am": 24,
+        "12pm": 28,
+        "3pm": 28,
+        "7pm": 23
       }
-    ]
+    }
   },
   {
     "city": "Sittwe",
-    "data": [
-      {
-        "city": "Sittwe",
-        "country": "Myanmar",
-        "temperature": "31°C",
-        "description": "Sunny",
-        "iconURL": "https://cdn.weatherapi.com/weather/64x64/day/113.png",
-        "humidity": "62%",
-        "wind": "15 km/h",
-        "pressure": "1007 mb"
+    "data": {
+      "latitude": 20.125,
+      "longitude": 92.875,
+      "generationtime_ms": 0.04792213439941406,
+      "utc_offset_seconds": 23400,
+      "timezone": "Asia/Yangon",
+      "timezone_abbreviation": "GMT+6:30",
+      "elevation": 15,
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "°C"
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "weather_code": "wmo code",
+        "temperature_2m_max": "°C",
+        "temperature_2m_min": "°C"
+      },
+      "daily": {
+        "time": [
+          "07/05/2025",
+          "08/05/2025",
+          "09/05/2025",
+          "10/05/2025",
+          "11/05/2025",
+          "12/05/2025",
+          "13/05/2025"
+        ],
+        "weather_code": [
+          3,
+          2,
+          2,
+          2,
+          2,
+          2,
+          80
+        ],
+        "temperature_2m_max": [
+          33,
+          34,
+          35,
+          34,
+          34,
+          33,
+          33
+        ],
+        "temperature_2m_min": [
+          27,
+          28,
+          29,
+          29,
+          29,
+          28,
+          29
+        ]
+      },
+      "current_temperature": 33,
+      "daily_temperatures": {
+        "7am": 28,
+        "9am": 31,
+        "12pm": 33,
+        "3pm": 32,
+        "7pm": 29
       }
-    ]
+    }
   },
   {
     "city": "Magway",
-    "data": [
-      {
-        "city": "Magway",
-        "country": "Myanmar",
-        "temperature": "36°C",
-        "description": "Sunny",
-        "iconURL": "https://cdn.weatherapi.com/weather/64x64/day/113.png",
-        "humidity": "30%",
-        "wind": "9 km/h",
-        "pressure": "1005 mb"
+    "data": {
+      "latitude": 20.125,
+      "longitude": 95,
+      "generationtime_ms": 0.04696846008300781,
+      "utc_offset_seconds": 23400,
+      "timezone": "Asia/Yangon",
+      "timezone_abbreviation": "GMT+6:30",
+      "elevation": 84,
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "°C"
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "weather_code": "wmo code",
+        "temperature_2m_max": "°C",
+        "temperature_2m_min": "°C"
+      },
+      "daily": {
+        "time": [
+          "07/05/2025",
+          "08/05/2025",
+          "09/05/2025",
+          "10/05/2025",
+          "11/05/2025",
+          "12/05/2025",
+          "13/05/2025"
+        ],
+        "weather_code": [
+          3,
+          3,
+          3,
+          2,
+          80,
+          96,
+          3
+        ],
+        "temperature_2m_max": [
+          39,
+          39,
+          40,
+          40,
+          40,
+          37,
+          38
+        ],
+        "temperature_2m_min": [
+          27,
+          26,
+          28,
+          29,
+          29,
+          27,
+          27
+        ]
+      },
+      "current_temperature": 37,
+      "daily_temperatures": {
+        "7am": 29,
+        "9am": 32,
+        "12pm": 37,
+        "3pm": 39,
+        "7pm": 34
       }
-    ]
+    }
+  },
+  {
+    "city": "Naypyidaw",
+    "data": {
+      "latitude": 19.75,
+      "longitude": 96.125,
+      "generationtime_ms": 0.22685527801513672,
+      "utc_offset_seconds": 23400,
+      "timezone": "Asia/Yangon",
+      "timezone_abbreviation": "GMT+6:30",
+      "elevation": 152,
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "°C"
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "weather_code": "wmo code",
+        "temperature_2m_max": "°C",
+        "temperature_2m_min": "°C"
+      },
+      "daily": {
+        "time": [
+          "07/05/2025",
+          "08/05/2025",
+          "09/05/2025",
+          "10/05/2025",
+          "11/05/2025",
+          "12/05/2025",
+          "13/05/2025"
+        ],
+        "weather_code": [
+          45,
+          3,
+          2,
+          3,
+          95,
+          95,
+          95
+        ],
+        "temperature_2m_max": [
+          37,
+          37,
+          38,
+          38,
+          37,
+          35,
+          35
+        ],
+        "temperature_2m_min": [
+          25,
+          26,
+          26,
+          27,
+          27,
+          25,
+          25
+        ]
+      },
+      "current_temperature": 36,
+      "daily_temperatures": {
+        "7am": 28,
+        "9am": 32,
+        "12pm": 36,
+        "3pm": 37,
+        "7pm": 31
+      }
+    }
   },
   {
     "city": "Loikaw",
-    "data": [
-      {
-        "city": "Loikaw",
-        "country": "Myanmar",
-        "temperature": "34°C",
-        "description": "Partly Cloudy",
-        "iconURL": "https://cdn.weatherapi.com/weather/64x64/day/116.png",
-        "humidity": "30%",
-        "wind": "5 km/h",
-        "pressure": "1007 mb"
+    "data": {
+      "latitude": 19.625,
+      "longitude": 97.25,
+      "generationtime_ms": 0.3873109817504883,
+      "utc_offset_seconds": 23400,
+      "timezone": "Asia/Yangon",
+      "timezone_abbreviation": "GMT+6:30",
+      "elevation": 894,
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "°C"
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "weather_code": "wmo code",
+        "temperature_2m_max": "°C",
+        "temperature_2m_min": "°C"
+      },
+      "daily": {
+        "time": [
+          "07/05/2025",
+          "08/05/2025",
+          "09/05/2025",
+          "10/05/2025",
+          "11/05/2025",
+          "12/05/2025",
+          "13/05/2025"
+        ],
+        "weather_code": [
+          3,
+          3,
+          3,
+          81,
+          95,
+          95,
+          96
+        ],
+        "temperature_2m_max": [
+          33,
+          33,
+          35,
+          33,
+          32,
+          29,
+          30
+        ],
+        "temperature_2m_min": [
+          20,
+          21,
+          21,
+          23,
+          22,
+          21,
+          22
+        ]
+      },
+      "current_temperature": 32,
+      "daily_temperatures": {
+        "7am": 24,
+        "9am": 28,
+        "12pm": 32,
+        "3pm": 33,
+        "7pm": 27
       }
-    ]
+    }
   },
   {
     "city": "Bago",
-    "data": [
-      {
-        "city": "Bago",
-        "country": "Myanmar",
-        "temperature": "34°C",
-        "description": "Sunny",
-        "iconURL": "https://cdn.weatherapi.com/weather/64x64/day/113.png",
-        "humidity": "41%",
-        "wind": "9 km/h",
-        "pressure": "1007 mb"
+    "data": {
+      "latitude": 17.375,
+      "longitude": 96.5,
+      "generationtime_ms": 0.037670135498046875,
+      "utc_offset_seconds": 23400,
+      "timezone": "Asia/Yangon",
+      "timezone_abbreviation": "GMT+6:30",
+      "elevation": 13,
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "°C"
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "weather_code": "wmo code",
+        "temperature_2m_max": "°C",
+        "temperature_2m_min": "°C"
+      },
+      "daily": {
+        "time": [
+          "07/05/2025",
+          "08/05/2025",
+          "09/05/2025",
+          "10/05/2025",
+          "11/05/2025",
+          "12/05/2025",
+          "13/05/2025"
+        ],
+        "weather_code": [
+          3,
+          3,
+          3,
+          80,
+          96,
+          96,
+          95
+        ],
+        "temperature_2m_max": [
+          38,
+          38,
+          38,
+          37,
+          36,
+          34,
+          34
+        ],
+        "temperature_2m_min": [
+          26,
+          27,
+          27,
+          27,
+          27,
+          27,
+          26
+        ]
+      },
+      "current_temperature": 37,
+      "daily_temperatures": {
+        "7am": 28,
+        "9am": 32,
+        "12pm": 37,
+        "3pm": 38,
+        "7pm": 31
       }
-    ]
+    }
   },
   {
     "city": "Pathein",
-    "data": [
-      {
-        "city": "Pathein",
-        "country": "Myanmar",
-        "temperature": "36°C",
-        "description": "Sunny",
-        "iconURL": "https://cdn.weatherapi.com/weather/64x64/day/113.png",
-        "humidity": "38%",
-        "wind": "18 km/h",
-        "pressure": "1007 mb"
+    "data": {
+      "latitude": 16.75,
+      "longitude": 94.75,
+      "generationtime_ms": 0.05125999450683594,
+      "utc_offset_seconds": 23400,
+      "timezone": "Asia/Yangon",
+      "timezone_abbreviation": "GMT+6:30",
+      "elevation": 12,
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "°C"
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "weather_code": "wmo code",
+        "temperature_2m_max": "°C",
+        "temperature_2m_min": "°C"
+      },
+      "daily": {
+        "time": [
+          "07/05/2025",
+          "08/05/2025",
+          "09/05/2025",
+          "10/05/2025",
+          "11/05/2025",
+          "12/05/2025",
+          "13/05/2025"
+        ],
+        "weather_code": [
+          3,
+          3,
+          3,
+          80,
+          80,
+          80,
+          80
+        ],
+        "temperature_2m_max": [
+          35,
+          36,
+          37,
+          36,
+          36,
+          35,
+          34
+        ],
+        "temperature_2m_min": [
+          27,
+          27,
+          27,
+          28,
+          28,
+          28,
+          27
+        ]
+      },
+      "current_temperature": 35,
+      "daily_temperatures": {
+        "7am": 29,
+        "9am": 32,
+        "12pm": 35,
+        "3pm": 34,
+        "7pm": 29
       }
-    ]
+    }
   },
   {
     "city": "Hpa-an",
-    "data": [
-      {
-        "city": "Pathein",
-        "country": "Myanmar",
-        "temperature": "36°C",
-        "description": "Sunny",
-        "iconURL": "https://cdn.weatherapi.com/weather/64x64/day/113.png",
-        "humidity": "38%",
-        "wind": "18 km/h",
-        "pressure": "1007 mb"
+    "data": {
+      "latitude": 16.875,
+      "longitude": 97.625,
+      "generationtime_ms": 0.03254413604736328,
+      "utc_offset_seconds": 23400,
+      "timezone": "Asia/Yangon",
+      "timezone_abbreviation": "GMT+6:30",
+      "elevation": 6,
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "°C"
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "weather_code": "wmo code",
+        "temperature_2m_max": "°C",
+        "temperature_2m_min": "°C"
+      },
+      "daily": {
+        "time": [
+          "07/05/2025",
+          "08/05/2025",
+          "09/05/2025",
+          "10/05/2025",
+          "11/05/2025",
+          "12/05/2025",
+          "13/05/2025"
+        ],
+        "weather_code": [
+          80,
+          95,
+          80,
+          80,
+          96,
+          80,
+          95
+        ],
+        "temperature_2m_max": [
+          36,
+          35,
+          36,
+          34,
+          36,
+          34,
+          34
+        ],
+        "temperature_2m_min": [
+          27,
+          27,
+          27,
+          27,
+          27,
+          26,
+          26
+        ]
+      },
+      "current_temperature": 35,
+      "daily_temperatures": {
+        "7am": 29,
+        "9am": 32,
+        "12pm": 35,
+        "3pm": 35,
+        "7pm": 31
       }
-    ]
+    }
   },
   {
     "city": "Mawlamyine",
-    "data": [
-      {
-        "city": "Mawlamyine",
-        "country": "Myanmar",
-        "temperature": "32°C",
-        "description": "Partly Cloudy",
-        "iconURL": "https://cdn.weatherapi.com/weather/64x64/day/116.png",
-        "humidity": "51%",
-        "wind": "14 km/h",
-        "pressure": "1007 mb"
+    "data": {
+      "latitude": 16.5,
+      "longitude": 97.625,
+      "generationtime_ms": 0.03933906555175781,
+      "utc_offset_seconds": 23400,
+      "timezone": "Asia/Yangon",
+      "timezone_abbreviation": "GMT+6:30",
+      "elevation": 23,
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "°C"
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "weather_code": "wmo code",
+        "temperature_2m_max": "°C",
+        "temperature_2m_min": "°C"
+      },
+      "daily": {
+        "time": [
+          "07/05/2025",
+          "08/05/2025",
+          "09/05/2025",
+          "10/05/2025",
+          "11/05/2025",
+          "12/05/2025",
+          "13/05/2025"
+        ],
+        "weather_code": [
+          3,
+          95,
+          80,
+          80,
+          95,
+          95,
+          95
+        ],
+        "temperature_2m_max": [
+          34,
+          33,
+          35,
+          33,
+          34,
+          32,
+          33
+        ],
+        "temperature_2m_min": [
+          28,
+          28,
+          28,
+          28,
+          28,
+          26,
+          27
+        ]
+      },
+      "current_temperature": 33,
+      "daily_temperatures": {
+        "7am": 29,
+        "9am": 31,
+        "12pm": 33,
+        "3pm": 34,
+        "7pm": 30
       }
-    ]
+    }
   },
   {
     "city": "Dawei",
-    "data": [
-      {
-        "city": "Dawei",
-        "country": "Myanmar",
-        "temperature": "30°C",
-        "description": "Patchy rain nearby",
-        "iconURL": "https://cdn.weatherapi.com/weather/64x64/day/176.png",
-        "humidity": "68%",
-        "wind": "9 km/h",
-        "pressure": "1008 mb"
+    "data": {
+      "latitude": 14.125,
+      "longitude": 98.25,
+      "generationtime_ms": 0.37467479705810547,
+      "utc_offset_seconds": 23400,
+      "timezone": "Asia/Yangon",
+      "timezone_abbreviation": "GMT+6:30",
+      "elevation": 9,
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "°C"
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "weather_code": "wmo code",
+        "temperature_2m_max": "°C",
+        "temperature_2m_min": "°C"
+      },
+      "daily": {
+        "time": [
+          "07/05/2025",
+          "08/05/2025",
+          "09/05/2025",
+          "10/05/2025",
+          "11/05/2025",
+          "12/05/2025",
+          "13/05/2025"
+        ],
+        "weather_code": [
+          96,
+          95,
+          45,
+          96,
+          95,
+          95,
+          96
+        ],
+        "temperature_2m_max": [
+          31,
+          33,
+          34,
+          32,
+          34,
+          32,
+          30
+        ],
+        "temperature_2m_min": [
+          26,
+          26,
+          25,
+          26,
+          26,
+          26,
+          26
+        ]
+      },
+      "current_temperature": 31,
+      "daily_temperatures": {
+        "7am": 27,
+        "9am": 29,
+        "12pm": 31,
+        "3pm": 30,
+        "7pm": 28
       }
-    ]
+    }
   }
 ]
